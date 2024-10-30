@@ -1,6 +1,18 @@
+# TODO(jeremy): Try to get all the names in the Cloud Native starter pack
+# https://bsky.app/starter-pack-short/RCerxDE
 apiVersion: v1alpha1
 kind: FollowsList
 accounts:
+  - handle: justingarrison.com
+  - handle: lookitup.baby
   - handle: kelseyhightower.com
   - handle: bgrant0607.bsky.social
   - handle: jeremylewi.bsky.social
+  - handle: richburroughs.dev
+  - handle: h.olysh.it
+  - handle: kaslin.rocks
+  - handle: karenchu.online
+  - handle: rawkode.dev
+  - handle: thock.in
+  - handle: chrisshort.net
+  - handle: brendandburns.bsky.social
