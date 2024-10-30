@@ -5,7 +5,7 @@ apiVersion: v1alpha1
 kind: FollowsList
 accounts:  
   - handle: jeremylewi.bsky.social
-  - handle: nimboeeren.com
+  - handle: nimobeeren.com
   - handle: karpathy.bsky.social
   - handle: maggieappleton.com
   - handle: rauchg.blue  
