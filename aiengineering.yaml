@@ -1,5 +1,52 @@
+# Source: https://bsky.app/starter-pack-short/7iwLQq5
+# TODO(jeremy): I've only added about half the names in that list.
+# Need to figure out a way to do this programmatically.
 apiVersion: v1alpha1
 kind: FollowsList
 accounts:  
   - handle: jeremylewi.bsky.social
+  - handle: nimboeeren.com
+  - handle: karpathy.bsky.social
+  - handle: maggieappleton.com
+  - handle: rauchg.blue  
   - handle: swyx.io
+  - handle: jaredpalmer.com
+  - handle: nearestnabors.com
+  - handle: adamwiggins.bsky.social
+  - handle: wattenberger.com
+  - handle: simonwillison.net
+  - handle: todepond.com
+  - handle: caglamaudite.bsky.social
+  - handle: cuatrecasas.bsky.social
+  - handle: patrickdebois.bsky.social
+  - handle: laurynas.cc
+  - handle: genmon.bsky.social
+  - handle: eugeneyan.bsky.social
+  - handle: edyvinck.bsky.social
+  - handle: hamel.bsky.social
+  - handle: samselikoff.com
+  - handle: robhaisfield.com
+  - handle: kvlly.com
+  - handle: vickiboykis.com
+  - handle: wang.social
+  - handle: annaghughes.bsky.social
+  - handle: eddiedinero.bsky.social
+  - handle: peteskomoroch.bsky.social
+  - handle: raw.bsky.social
+  - handle: ixek.bsky.social
+  - handle: narphorium.bsky.social
+  - handle: muellerzr.bsky.social
+  - handle: abegong.com
+  - handle: victoriano.bsky.social
+  - handle: emil.bsky.social
+  - handle: chrisalbon.com
+  - handle: eribeiro.bsky.social
+  - handle: codestar.bsky.social
+  - handle: pelayoarbues.com
+  - handle: remilouf.bsky.social
+  - handle: sixwing.bsky.social
+  - handle: nicoritschel.com
+  - handle: pcarter.bsky.social
+  - handle: thomascygn.bsky.social
+  - handle: jesper.drams.ch
+  - handle: ethanrosenthal.com
