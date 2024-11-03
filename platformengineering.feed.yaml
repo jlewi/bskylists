@@ -1,0 +1,46 @@
+apiVersion: v1alpha1
+kind: Feed
+metadata:
+    name: PlatformEngineering
+include:
+- #kubecon
+- #platformengineering
+- #kubernetes
+- #platformeng
+- kubecon
+- kubernetes
+- platform engineering
+- gitops
+- sre 
+- config
+- terraform
+- iac
+- serverless
+- kustomize
+- helm
+- istio
+- service mesh
+- k8sgpt
+- containers
+- docker
+- devops
+- idp
+- internal developer platform
+- argo
+- cicd
+- knative
+- kubectl
+- continuous delivery
+- k3s
+- azure
+- gcp
+- eks
+- aws
+- cloud
+- gke
+- eks
+- service mesh
+- istio
+- envoy
+- gateway
+- apigateway

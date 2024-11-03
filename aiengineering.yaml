@@ -1,5 +1,8 @@
 apiVersion: v1alpha1
 kind: FollowsList
+metadata:
+    name: AIEngineeringMembers
+did: at://did:plc:5lwweotr4gfb7bbz2fqwdthf/app.bsky.graph.list/3l7z42fommh2l
 accounts:
     - handle: aaazzam.bsky.social
     - handle: abegong.com
@@ -19,6 +22,7 @@ accounts:
     - handle: bthomas.bsky.social
     - handle: bwasti.bsky.social
     - handle: caglamaudite.bsky.social
+    - handle: caseynewton.bsky.social
     - handle: cassidoo.co
     - handle: charles.dardaman.com
     - handle: chrisalbon.com
@@ -78,6 +82,7 @@ accounts:
     - handle: karpathy.bsky.social
     - handle: koaning.bsky.social
     - handle: kvlly.com
+    - handle: kylierobison.com
     - handle: kylestratis.com
     - handle: launchit.ai
     - handle: lauren1701.bsky.social

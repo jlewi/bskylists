@@ -1,0 +1,38 @@
+apiVersion: v1alpha1
+kind: Feed
+metadata:
+    name: AIEngineering
+include:
+- #aiengineering
+- #llms
+- #ai
+- llms
+- aiengineering
+- aiengineer
+- chatgpt
+- anthropic
+- poolside
+- openai
+- oai
+- claude
+- anthropic
+- mistral
+- fine tuning
+- rag
+- aiagents
+- prompt engineering
+- gpu
+- gpus
+- nvidia
+- deepmind
+- hugging face
+- mistral
+- llama
+- gemini
+- bedrock
+- copilot
+- sonnet
+- evals
+- retrieval augmented generation
+- generative ai
+- genai
