@@ -9,12 +9,14 @@ accounts:
     - handle: ahrkrak.bsky.social
     - handle: aleqxan.bsky.social
     - handle: alexellis.bsky.social
+    - handle: amandabrock.bsky.social
     - handle: ams0.bsky.social
     - handle: aparker.io
     - handle: ashleywillis.bsky.social
     - handle: auggie.dev
     - handle: aurelievache.bsky.social
     - handle: averagemarcus.bsky.social
+    - handle: bettyjunod.bsky.social
     - handle: bgrant0607.bsky.social
     - handle: brancz.bsky.social
     - handle: brandon.dimcheff.com
@@ -23,17 +25,23 @@ accounts:
     - handle: bryanross.me
     - handle: celestehorgan.bsky.social
     - handle: chrisshort.net
+    - handle: circlejtp.me
+    - handle: cloudikeme.bsky.social
     - handle: cloudnativeboy.bsky.social
     - handle: cmcluck.bsky.social
     - handle: collcoll.bsky.social
+    - handle: cote.io
     - handle: cpanato.dev
     - handle: craigbox.bsky.social
+    - handle: cyberynn.bsky.social
     - handle: danielle.fyi
+    - handle: danieloh30.bsky.social
     - handle: darko.rup12.net
     - handle: dartezmatteo.bsky.social
     - handle: dims.dev
     - handle: divineops.net
     - handle: dnsmichi.bsky.social
+    - handle: earth2marsh.com
     - handle: eddiezane.bsky.social
     - handle: elchefe.me
     - handle: eliine.dev
@@ -45,10 +53,12 @@ accounts:
     - handle: gianarb.it
     - handle: h.olysh.it
     - handle: handle.invalid
+    - handle: hannahfoxwell.net
     - handle: harthoover.com
     - handle: hazelweakly.me
     - handle: helayoty.bsky.social
     - handle: horovits.bsky.social
+    - handle: i-am-j.ag
     - handle: icyphox.sh
     - handle: ironyuppie.com
     - handle: jasonumiker.bsky.social
@@ -58,6 +68,7 @@ accounts:
     - handle: jeremyrickard.com
     - handle: jimmy.zelinskie.com
     - handle: johncodes.com
+    - handle: joshuabezaleel.bsky.social
     - handle: justingarrison.com
     - handle: kakkoyun.me
     - handle: karenchu.online
@@ -76,7 +87,9 @@ accounts:
     - handle: matscloud.com
     - handle: matty.wtf
     - handle: mauilion.dev
+    - handle: mbianchidev.bsky.social
     - handle: mccune.org.uk
+    - handle: me.nzen.ski
     - handle: medina.bsky.social
     - handle: mediocredevops.com
     - handle: mestredelpino.com
@@ -94,6 +107,7 @@ accounts:
     - handle: nimbinatus.bsky.social
     - handle: olivi-eh.bsky.social
     - handle: onlydole.dev
+    - handle: paulalkennedy.bsky.social
     - handle: paulczar.bsky.social
     - handle: pixelrobots.co.uk
     - handle: puerco.mx
@@ -105,6 +119,7 @@ accounts:
     - handle: rexagod.bsky.social
     - handle: reylejano.bsky.social
     - handle: richburroughs.dev
+    - handle: robstr.dev
     - handle: saiyampathak.com
     - handle: santana.dev
     - handle: schabell.org
@@ -120,6 +135,7 @@ accounts:
     - handle: strongjz.bsky.social
     - handle: stu.bsky.social
     - handle: sublimi.no
+    - handle: sugaroverflow.com
     - handle: t-sc.eu
     - handle: technosophos.bsky.social
     - handle: terrytangyuan.xyz
