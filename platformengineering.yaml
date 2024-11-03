@@ -1,5 +1,5 @@
-apiVersion: v1alpha1
-kind: FollowsList
+apiVersion: bsctl.dev/v1alpha1
+kind: AccountList
 metadata:
   name: 
 did: at://did:plc:5lwweotr4gfb7bbz2fqwdthf/app.bsky.graph.list/3l7yx65zcse25
@@ -133,6 +133,7 @@ accounts:
     - handle: sogrady.org
     - handle: soltysh.bsky.social
     - handle: soniacuff.com
+    - handle: sourishkrout.com
     - handle: squillace.bsky.social
     - handle: starefossen.bsky.social
     - handle: stefanprodan.com

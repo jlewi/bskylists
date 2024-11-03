@@ -1,5 +1,5 @@
 apiVersion: v1alpha1
-kind: FollowsList
+kind: AccountList
 metadata:
     name: AIEngineeringMembers
 did: at://did:plc:5lwweotr4gfb7bbz2fqwdthf/app.bsky.graph.list/3l7z42fommh2l
