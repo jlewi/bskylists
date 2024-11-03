@@ -1,39 +1,38 @@
-apiVersion: v1alpha1
+apiVersion: bsctl.dev/v1alpha1
 kind: Feed
 metadata:
-    name: AIEngineering
+  name: AIEngineering
+  labels: {}
 include:
-- #aiengineering
-- #llms
-- #ai
-- llms
-- aiengineering
-- aiengineer
-- chatgpt
-- anthropic
-- poolside
-- openai
-- oai
-- claude
-- anthropic
-- mistral
-- fine tuning
-- rag
 - aiagents
-- prompt engineering
+- aiengineer
+- aiengineering
+- agent
+- agents
+- anthropic
+- bedrock
+- chatgpt
+- claude
+- copilot
+- deepmind
+- evals
+- fine tuning
+- gemini
+- genai
+- generative ai
 - gpu
 - gpus
-- nvidia
-- deepmind
 - hugging face
-- mistral
 - llama
-- gemini
-- bedrock
-- copilot
-- sonnet
-- evals
-- retrieval augmented generation
-- generative ai
-- genai
+- llms
+- mistral
 - models
+- nvidia
+- oai
+- openai
+- poolside
+- prompt engineering
+- rag
+- retrieval augmented generation
+- smol
+- sonnet
