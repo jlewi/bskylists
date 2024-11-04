@@ -4,6 +4,7 @@ metadata:
     name: AIEngineeringMembers
 did: at://did:plc:5lwweotr4gfb7bbz2fqwdthf/app.bsky.graph.list/3l7z42fommh2l
 accounts:
+    - handle: 4rtemi5.bsky.social
     - handle: aaazzam.bsky.social
     - handle: abegong.com
     - handle: adamwiggins.bsky.social
@@ -81,6 +82,7 @@ accounts:
     - handle: jph.bsky.social
     - handle: justinsmethers.bsky.social
     - handle: karpathy.bsky.social
+    - handle: kelloggt.bsky.social
     - handle: koaning.bsky.social
     - handle: kvlly.com
     - handle: kylierobison.com
