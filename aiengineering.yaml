@@ -1,4 +1,4 @@
-apiVersion: v1alpha1
+apiVersion: bsctl.dev/v1alpha1
 kind: AccountList
 metadata:
     name: AIEngineeringMembers
@@ -59,6 +59,7 @@ accounts:
     - handle: franxco.bsky.social
     - handle: gaelvaroquaux.bsky.social
     - handle: gecky.me
+    - handle: gergely.pragmaticengineer.com
     - handle: genmon.bsky.social
     - handle: gogoldrogo.bsky.social
     - handle: gregwils.bsky.social
