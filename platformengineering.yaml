@@ -33,6 +33,7 @@ accounts:
     - handle: brianlscott.com
     - handle: bryanross.me
     - handle: carlagg.bsky.social
+    - handle: carrycooldude.bsky.social
     - handle: celestehorgan.bsky.social
     - handle: chd.today
     - handle: chrisshort.net
@@ -45,6 +46,7 @@ accounts:
     - handle: cote.io
     - handle: cpanato.dev
     - handle: craigbox.bsky.social
+    - handle: csanchez.bsky.social
     - handle: cyberynn.bsky.social
     - handle: danielle.fyi
     - handle: danieloh30.bsky.social
@@ -72,6 +74,7 @@ accounts:
     - handle: gelopfalcon.bsky.social
     - handle: gergely.pragmaticengineer.com
     - handle: gianarb.it
+    - handle: gregfenton.bsky.social
     - handle: h.olysh.it
     - handle: handle.invalid
     - handle: hannahfoxwell.net
@@ -81,6 +84,7 @@ accounts:
     - handle: horovits.bsky.social
     - handle: hrittikhere.bsky.social
     - handle: i-am-j.ag
+    - handle: iblancasa.bsky.social
     - handle: icyphox.sh
     - handle: inductor.dev
     - handle: ironyuppie.com
@@ -90,6 +94,8 @@ accounts:
     - handle: jeremy.lewi.us
     - handle: jeremyrickard.com
     - handle: jimmy.zelinskie.com
+    - handle: jkirstaetter.bsky.social
+    - handle: jlandure.dev
     - handle: johncodes.com
     - handle: joshuabezaleel.bsky.social
     - handle: jpkroehling.bsky.social
@@ -114,6 +120,7 @@ accounts:
     - handle: lizrice.bsky.social
     - handle: lookitup.baby
     - handle: lucvandonkersgoed.com
+    - handle: lukwam.com
     - handle: luxask.bsky.social
     - handle: marst.bsky.social
     - handle: matscloud.com
@@ -124,8 +131,10 @@ accounts:
     - handle: me.nzen.ski
     - handle: medina.bsky.social
     - handle: mediocredevops.com
+    - handle: mehmandarov.bsky.social
     - handle: mestredelpino.com
     - handle: metalmatze.de
+    - handle: mfahlandt.bsky.social
     - handle: mikegcoleman.com
     - handle: milesward.com
     - handle: mistwire.com
@@ -154,6 +163,7 @@ accounts:
     - handle: rexagod.bsky.social
     - handle: reylejano.bsky.social
     - handle: richburroughs.dev
+    - handle: rishab.cloud
     - handle: robstr.dev
     - handle: sagikazarmark.bsky.social
     - handle: saiyampathak.com
@@ -194,6 +204,7 @@ accounts:
     - handle: wiggitywhitney.bsky.social
     - handle: wiredferret.bsky.social
     - handle: xander.wtf
+    - handle: xavidop.bsky.social
     - handle: xeiaso.net
     - handle: xmudrii.bsky.social
     - handle: youngnick.bsky.social
