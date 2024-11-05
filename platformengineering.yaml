@@ -83,6 +83,8 @@ accounts:
     - handle: kimmcmahon.bsky.social
     - handle: kmassada.com
     - handle: krisnova.net
+    - handle: kubernetes.dev
+    - handle: kubernetes.io
     - handle: kylestratis.com
     - handle: lachie.bsky.social
     - handle: liamrandall.bsky.social
