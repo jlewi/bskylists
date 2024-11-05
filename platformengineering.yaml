@@ -1,7 +1,7 @@
 apiVersion: bsctl.dev/v1alpha1
 kind: AccountList
 metadata:
-  name: 
+    labels: {}
 did: at://did:plc:5lwweotr4gfb7bbz2fqwdthf/app.bsky.graph.list/3l7yx65zcse25
 accounts:
     - handle: a-z.dev
@@ -15,22 +15,30 @@ accounts:
     - handle: alexellis.bsky.social
     - handle: amandabrock.bsky.social
     - handle: ams0.bsky.social
+    - handle: annietalvasto.bsky.social
     - handle: aparker.io
+    - handle: asciidwarf.bsky.social
     - handle: ashleywillis.bsky.social
     - handle: auggie.dev
     - handle: aurelievache.bsky.social
     - handle: averagemarcus.bsky.social
     - handle: bettyjunod.bsky.social
     - handle: bgrant0607.bsky.social
+    - handle: birthmarkbart.bsky.social
+    - handle: boredabdel.bsky.social
     - handle: brancz.bsky.social
     - handle: brandon.dimcheff.com
     - handle: brendandburns.bsky.social
+    - handle: bretfisher.com
     - handle: brianlscott.com
     - handle: bryanross.me
+    - handle: carlagg.bsky.social
     - handle: celestehorgan.bsky.social
+    - handle: chd.today
     - handle: chrisshort.net
     - handle: circlejtp.me
     - handle: cloudikeme.bsky.social
+    - handle: cloudmelon.bsky.social
     - handle: cloudnativeboy.bsky.social
     - handle: cmcluck.bsky.social
     - handle: collcoll.bsky.social
@@ -42,18 +50,26 @@ accounts:
     - handle: danieloh30.bsky.social
     - handle: darko.rup12.net
     - handle: dartezmatteo.bsky.social
+    - handle: devopsguys.bsky.social
+    - handle: didicodes.bsky.social
     - handle: dims.dev
+    - handle: dipeshrawat.dev
     - handle: divineops.net
     - handle: dnsmichi.bsky.social
+    - handle: dshnow.bsky.social
     - handle: earth2marsh.com
     - handle: eddiezane.bsky.social
+    - handle: edithpuclla.bsky.social
+    - handle: edsoncelio.dev
     - handle: elchefe.me
     - handle: eliine.dev
     - handle: emilyfreeman.bsky.social
     - handle: eminalemdar.bsky.social
+    - handle: erics-redsox.bsky.social
     - handle: estesp.dev
     - handle: farrah.bsky.social
     - handle: forrestbrazeal.bsky.social
+    - handle: gelopfalcon.bsky.social
     - handle: gergely.pragmaticengineer.com
     - handle: gianarb.it
     - handle: h.olysh.it
@@ -63,8 +79,10 @@ accounts:
     - handle: hazelweakly.me
     - handle: helayoty.bsky.social
     - handle: horovits.bsky.social
+    - handle: hrittikhere.bsky.social
     - handle: i-am-j.ag
     - handle: icyphox.sh
+    - handle: inductor.dev
     - handle: ironyuppie.com
     - handle: jasonumiker.bsky.social
     - handle: jeefy.dev
@@ -74,10 +92,14 @@ accounts:
     - handle: jimmy.zelinskie.com
     - handle: johncodes.com
     - handle: joshuabezaleel.bsky.social
+    - handle: jpkroehling.bsky.social
+    - handle: juliafmorgado.bsky.social
     - handle: justingarrison.com
+    - handle: kaiwalyakoparkar.bsky.social
     - handle: kakkoyun.me
     - handle: karenchu.online
     - handle: kaslin.rocks
+    - handle: kaspernissen.xyz
     - handle: kat.lol
     - handle: kelseyhightower.com
     - handle: kimmcmahon.bsky.social
@@ -85,10 +107,15 @@ accounts:
     - handle: krisnova.net
     - handle: kylestratis.com
     - handle: lachie.bsky.social
+    - handle: leecalcote.bsky.social
+    - handle: leonardpahlke.bsky.social
     - handle: liamrandall.bsky.social
+    - handle: lisamarienamphy.bsky.social
     - handle: lizrice.bsky.social
     - handle: lookitup.baby
     - handle: lucvandonkersgoed.com
+    - handle: luxask.bsky.social
+    - handle: marst.bsky.social
     - handle: matscloud.com
     - handle: matty.wtf
     - handle: mauilion.dev
@@ -98,9 +125,11 @@ accounts:
     - handle: medina.bsky.social
     - handle: mediocredevops.com
     - handle: mestredelpino.com
+    - handle: metalmatze.de
     - handle: mikegcoleman.com
     - handle: milesward.com
     - handle: mistwire.com
+    - handle: mkoerbi.bsky.social
     - handle: mlbiam.dev
     - handle: mrbobbytabl.es
     - handle: nabrahams.bsky.social
@@ -115,6 +144,7 @@ accounts:
     - handle: paulalkennedy.bsky.social
     - handle: paulczar.bsky.social
     - handle: pixelrobots.co.uk
+    - handle: prune998.bsky.social
     - handle: puerco.mx
     - handle: puja.dev
     - handle: quinnypig.bsky.social
@@ -125,13 +155,16 @@ accounts:
     - handle: reylejano.bsky.social
     - handle: richburroughs.dev
     - handle: robstr.dev
+    - handle: sagikazarmark.bsky.social
     - handle: saiyampathak.com
     - handle: santana.dev
     - handle: schabell.org
+    - handle: seemasaharan.bsky.social
     - handle: sidpalas.com
     - handle: skpodila.bsky.social
     - handle: social.hudson-viles.uk
     - handle: sogrady.org
+    - handle: solidtubez.bsky.social
     - handle: soltysh.bsky.social
     - handle: soniacuff.com
     - handle: sourishkrout.com
@@ -141,11 +174,14 @@ accounts:
     - handle: strongjz.bsky.social
     - handle: stu.bsky.social
     - handle: sublimi.no
+    - handle: sudermanjr.bsky.social
     - handle: sugaroverflow.com
     - handle: t-sc.eu
     - handle: technosophos.bsky.social
     - handle: terrytangyuan.xyz
+    - handle: theonlynabarun.bsky.social
     - handle: thock.in
+    - handle: thomasvitale.com
     - handle: tiffanyfay.dev
     - handle: tnorlin.se
     - handle: todaywasawesome.bsky.social
@@ -159,5 +195,5 @@ accounts:
     - handle: wiredferret.bsky.social
     - handle: xander.wtf
     - handle: xeiaso.net
+    - handle: xmudrii.bsky.social
     - handle: youngnick.bsky.social
-    - handle: sudermanjr.bsky.social
