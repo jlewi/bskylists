@@ -1,210 +1,618 @@
 apiVersion: bsctl.dev/v1alpha1
 kind: AccountList
 metadata:
-    labels: {}
+  labels: {}
 did: at://did:plc:5lwweotr4gfb7bbz2fqwdthf/app.bsky.graph.list/3l7yx65zcse25
-accounts:
-    - handle: a-z.dev
-    - handle: aaronw.dev
-    - handle: abangser.bsky.social
-    - handle: adamhjk.me
-    - handle: adrianamvillela.bsky.social
-    - handle: ahmet.dev
-    - handle: ahrkrak.bsky.social
-    - handle: aleqxan.bsky.social
-    - handle: alexellis.bsky.social
-    - handle: amandabrock.bsky.social
-    - handle: ams0.bsky.social
-    - handle: annietalvasto.bsky.social
-    - handle: aparker.io
-    - handle: asciidwarf.bsky.social
-    - handle: ashleywillis.bsky.social
-    - handle: auggie.dev
-    - handle: aurelievache.bsky.social
-    - handle: averagemarcus.bsky.social
-    - handle: bettyjunod.bsky.social
-    - handle: bgrant0607.bsky.social
-    - handle: birthmarkbart.bsky.social
-    - handle: boredabdel.bsky.social
-    - handle: brancz.bsky.social
-    - handle: brandon.dimcheff.com
-    - handle: brendandburns.bsky.social
-    - handle: bretfisher.com
-    - handle: brianlscott.com
-    - handle: bryanross.me
-    - handle: carlagg.bsky.social
-    - handle: carrycooldude.bsky.social
-    - handle: celestehorgan.bsky.social
-    - handle: chd.today
-    - handle: chrisshort.net
-    - handle: circlejtp.me
-    - handle: cloudikeme.bsky.social
-    - handle: cloudmelon.bsky.social
-    - handle: cloudnativeboy.bsky.social
-    - handle: cmcluck.bsky.social
-    - handle: collcoll.bsky.social
-    - handle: cote.io
-    - handle: cpanato.dev
-    - handle: craigbox.bsky.social
-    - handle: csanchez.bsky.social
-    - handle: cyberynn.bsky.social
-    - handle: danielle.fyi
-    - handle: danieloh30.bsky.social
-    - handle: darko.rup12.net
-    - handle: dartezmatteo.bsky.social
-    - handle: devopsguys.bsky.social
-    - handle: didicodes.bsky.social
-    - handle: dims.dev
-    - handle: dipeshrawat.dev
-    - handle: divineops.net
-    - handle: dnsmichi.bsky.social
-    - handle: dshnow.bsky.social
-    - handle: earth2marsh.com
-    - handle: eddiezane.bsky.social
-    - handle: edithpuclla.bsky.social
-    - handle: edsoncelio.dev
-    - handle: elchefe.me
-    - handle: eliine.dev
-    - handle: emilyfreeman.bsky.social
-    - handle: eminalemdar.bsky.social
-    - handle: erics-redsox.bsky.social
-    - handle: estesp.dev
-    - handle: farrah.bsky.social
-    - handle: forrestbrazeal.bsky.social
-    - handle: gelopfalcon.bsky.social
-    - handle: gergely.pragmaticengineer.com
-    - handle: gianarb.it
-    - handle: gregfenton.bsky.social
-    - handle: h.olysh.it
-    - handle: handle.invalid
-    - handle: hannahfoxwell.net
-    - handle: harthoover.com
-    - handle: hazelweakly.me
-    - handle: helayoty.bsky.social
-    - handle: horovits.bsky.social
-    - handle: hrittikhere.bsky.social
-    - handle: i-am-j.ag
-    - handle: iblancasa.bsky.social
-    - handle: icyphox.sh
-    - handle: inductor.dev
-    - handle: ironyuppie.com
-    - handle: jasonumiker.bsky.social
-    - handle: jeefy.dev
-    - handle: jerdog.dev
-    - handle: jeremy.lewi.us
-    - handle: jeremyrickard.com
-    - handle: jimmy.zelinskie.com
-    - handle: jkirstaetter.bsky.social
-    - handle: jlandure.dev
-    - handle: johncodes.com
-    - handle: joshuabezaleel.bsky.social
-    - handle: jpkroehling.bsky.social
-    - handle: juliafmorgado.bsky.social
-    - handle: justingarrison.com
-    - handle: kaiwalyakoparkar.bsky.social
-    - handle: kakkoyun.me
-    - handle: karenchu.online
-    - handle: kaslin.rocks
-    - handle: kaspernissen.xyz
-    - handle: kat.lol
-    - handle: kelseyhightower.com
-    - handle: kimmcmahon.bsky.social
-    - handle: kmassada.com
-    - handle: krisnova.net
-    - handle: kylestratis.com
-    - handle: lachie.bsky.social
-    - handle: leecalcote.bsky.social
-    - handle: leonardpahlke.bsky.social
-    - handle: liamrandall.bsky.social
-    - handle: lisamarienamphy.bsky.social
-    - handle: lizrice.bsky.social
-    - handle: lookitup.baby
-    - handle: lucvandonkersgoed.com
-    - handle: lukwam.com
-    - handle: luxask.bsky.social
-    - handle: marst.bsky.social
-    - handle: matscloud.com
-    - handle: matty.wtf
-    - handle: mauilion.dev
-    - handle: mbianchidev.bsky.social
-    - handle: mccune.org.uk
-    - handle: me.nzen.ski
-    - handle: medina.bsky.social
-    - handle: mediocredevops.com
-    - handle: mehmandarov.bsky.social
-    - handle: mestredelpino.com
-    - handle: metalmatze.de
-    - handle: mfahlandt.bsky.social
-    - handle: mikegcoleman.com
-    - handle: milesward.com
-    - handle: mistwire.com
-    - handle: mkoerbi.bsky.social
-    - handle: mlbiam.dev
-    - handle: mrbobbytabl.es
-    - handle: nabrahams.bsky.social
-    - handle: nanci.bsky.social
-    - handle: nathenharvey.bsky.social
-    - handle: nick.sausage.social
-    - handle: nickeberts.dev
-    - handle: nicole.dev
-    - handle: nimbinatus.bsky.social
-    - handle: olivi-eh.bsky.social
-    - handle: onlydole.dev
-    - handle: paulalkennedy.bsky.social
-    - handle: paulczar.bsky.social
-    - handle: pixelrobots.co.uk
-    - handle: prune998.bsky.social
-    - handle: puerco.mx
-    - handle: puja.dev
-    - handle: quinnypig.bsky.social
-    - handle: radu-matei.com
-    - handle: raphink.bsky.social
-    - handle: rawkode.dev
-    - handle: rexagod.bsky.social
-    - handle: reylejano.bsky.social
-    - handle: richburroughs.dev
-    - handle: rishab.cloud
-    - handle: robstr.dev
-    - handle: sagikazarmark.bsky.social
-    - handle: saiyampathak.com
-    - handle: santana.dev
-    - handle: schabell.org
-    - handle: seemasaharan.bsky.social
-    - handle: sidpalas.com
-    - handle: skpodila.bsky.social
-    - handle: social.hudson-viles.uk
-    - handle: sogrady.org
-    - handle: solidtubez.bsky.social
-    - handle: soltysh.bsky.social
-    - handle: soniacuff.com
-    - handle: sourishkrout.com
-    - handle: squillace.bsky.social
-    - handle: starefossen.bsky.social
-    - handle: stefanprodan.com
-    - handle: strongjz.bsky.social
-    - handle: stu.bsky.social
-    - handle: sublimi.no
-    - handle: sudermanjr.bsky.social
-    - handle: sugaroverflow.com
-    - handle: t-sc.eu
-    - handle: technosophos.bsky.social
-    - handle: terrytangyuan.xyz
-    - handle: theonlynabarun.bsky.social
-    - handle: thock.in
-    - handle: thomasvitale.com
-    - handle: tiffanyfay.dev
-    - handle: tnorlin.se
-    - handle: todaywasawesome.bsky.social
-    - handle: troy0820.dev
-    - handle: vbehar.bsky.social
-    - handle: vicnastea.io
-    - handle: virtualized6ix.bsky.social
-    - handle: vladionescu.me
-    - handle: vtimd.bsky.social
-    - handle: wiggitywhitney.bsky.social
-    - handle: wiredferret.bsky.social
-    - handle: xander.wtf
-    - handle: xavidop.bsky.social
-    - handle: xeiaso.net
-    - handle: xmudrii.bsky.social
-    - handle: youngnick.bsky.social
+items:
+- account:
+    handle: a-z.dev
+  member: true
+- account:
+    handle: aaronw.dev
+  member: true
+- account:
+    handle: abangser.bsky.social
+  member: true
+- account:
+    handle: adamhjk.me
+  member: true
+- account:
+    handle: adrianamvillela.bsky.social
+  member: true
+- account:
+    handle: ahmet.dev
+  member: true
+- account:
+    handle: ahrkrak.bsky.social
+  member: true
+- account:
+    handle: aleqxan.bsky.social
+  member: true
+- account:
+    handle: alexellis.bsky.social
+  member: true
+- account:
+    handle: amandabrock.bsky.social
+  member: true
+- account:
+    handle: ams0.bsky.social
+  member: true
+- account:
+    handle: annietalvasto.bsky.social
+  member: true
+- account:
+    handle: aparker.io
+  member: true
+- account:
+    handle: asciidwarf.bsky.social
+  member: true
+- account:
+    handle: ashleywillis.bsky.social
+  member: true
+- account:
+    handle: auggie.dev
+  member: true
+- account:
+    handle: aurelievache.bsky.social
+  member: true
+- account:
+    handle: averagemarcus.bsky.social
+  member: true
+- account:
+    handle: bettyjunod.bsky.social
+  member: true
+- account:
+    handle: bgrant0607.bsky.social
+  member: true
+- account:
+    handle: birthmarkbart.bsky.social
+  member: true
+- account:
+    handle: boredabdel.bsky.social
+  member: true
+- account:
+    handle: brancz.bsky.social
+  member: true
+- account:
+    handle: brandon.dimcheff.com
+  member: true
+- account:
+    handle: brendandburns.bsky.social
+  member: true
+- account:
+    handle: bretfisher.com
+  member: true
+- account:
+    handle: brianlscott.com
+  member: true
+- account:
+    handle: bryanross.me
+  member: true
+- account:
+    handle: carlagg.bsky.social
+  member: true
+- account:
+    handle: carrycooldude.bsky.social
+  member: true
+- account:
+    handle: celestehorgan.bsky.social
+  member: true
+- account:
+    handle: chd.today
+  member: true
+- account:
+    handle: chrisshort.net
+  member: true
+- account:
+    handle: circlejtp.me
+  member: true
+- account:
+    handle: cloudikeme.bsky.social
+  member: true
+- account:
+    handle: cloudmelon.bsky.social
+  member: true
+- account:
+    handle: cloudnativeboy.bsky.social
+  member: true
+- account:
+    handle: cmcluck.bsky.social
+  member: true
+- account:
+    handle: collcoll.bsky.social
+  member: true
+- account:
+    handle: cote.io
+  member: true
+- account:
+    handle: cpanato.dev
+  member: true
+- account:
+    handle: craigbox.bsky.social
+  member: true
+- account:
+    handle: csanchez.bsky.social
+  member: true
+- account:
+    handle: cyberynn.bsky.social
+  member: true
+- account:
+    handle: danielle.fyi
+  member: true
+- account:
+    handle: danieloh30.bsky.social
+  member: true
+- account:
+    handle: darko.rup12.net
+  member: true
+- account:
+    handle: dartezmatteo.bsky.social
+  member: true
+- account:
+    handle: devopsguys.bsky.social
+  member: true
+- account:
+    handle: didicodes.bsky.social
+  member: true
+- account:
+    handle: dims.dev
+  member: true
+- account:
+    handle: dipeshrawat.dev
+  member: true
+- account:
+    handle: divineops.net
+  member: true
+- account:
+    handle: dnsmichi.bsky.social
+  member: true
+- account:
+    handle: dshnow.bsky.social
+  member: true
+- account:
+    handle: earth2marsh.com
+  member: true
+- account:
+    handle: eddiezane.bsky.social
+  member: true
+- account:
+    handle: edithpuclla.bsky.social
+  member: true
+- account:
+    handle: edsoncelio.dev
+  member: true
+- account:
+    handle: elchefe.me
+  member: true
+- account:
+    handle: eliine.dev
+  member: true
+- account:
+    handle: emilyfreeman.bsky.social
+  member: true
+- account:
+    handle: eminalemdar.bsky.social
+  member: true
+- account:
+    handle: erics-redsox.bsky.social
+  member: true
+- account:
+    handle: estesp.dev
+  member: true
+- account:
+    handle: farrah.bsky.social
+  member: true
+- account:
+    handle: forrestbrazeal.bsky.social
+  member: true
+- account:
+    handle: gelopfalcon.bsky.social
+  member: true
+- account:
+    handle: gergely.pragmaticengineer.com
+  member: true
+- account:
+    handle: gianarb.it
+  member: true
+- account:
+    handle: gregfenton.bsky.social
+  member: true
+- account:
+    handle: h.olysh.it
+  member: true
+- account:
+    handle: handle.invalid
+  member: true
+- account:
+    handle: hannahfoxwell.net
+  member: true
+- account:
+    handle: harthoover.com
+  member: true
+- account:
+    handle: hazelweakly.me
+  member: true
+- account:
+    handle: helayoty.bsky.social
+  member: true
+- account:
+    handle: horovits.bsky.social
+  member: true
+- account:
+    handle: hrittikhere.bsky.social
+  member: true
+- account:
+    handle: i-am-j.ag
+  member: true
+- account:
+    handle: iblancasa.bsky.social
+  member: true
+- account:
+    handle: icyphox.sh
+  member: true
+- account:
+    handle: inductor.dev
+  member: true
+- account:
+    handle: ironyuppie.com
+  member: true
+- account:
+    handle: jasonumiker.bsky.social
+  member: true
+- account:
+    handle: jeefy.dev
+  member: true
+- account:
+    handle: jerdog.dev
+  member: true
+- account:
+    handle: jeremy.lewi.us
+  member: true
+- account:
+    handle: jeremyrickard.com
+  member: true
+- account:
+    handle: jimmy.zelinskie.com
+  member: true
+- account:
+    handle: jkirstaetter.bsky.social
+  member: true
+- account:
+    handle: jlandure.dev
+  member: true
+- account:
+    handle: johncodes.com
+  member: true
+- account:
+    handle: joshuabezaleel.bsky.social
+  member: true
+- account:
+    handle: jpkroehling.bsky.social
+  member: true
+- account:
+    handle: juliafmorgado.bsky.social
+  member: true
+- account:
+    handle: justingarrison.com
+  member: true
+- account:
+    handle: kaiwalyakoparkar.bsky.social
+  member: true
+- account:
+    handle: kakkoyun.me
+  member: true
+- account:
+    handle: karenchu.online
+  member: true
+- account:
+    handle: kaslin.rocks
+  member: true
+- account:
+    handle: kaspernissen.xyz
+  member: true
+- account:
+    handle: kat.lol
+  member: true
+- account:
+    handle: kelseyhightower.com
+  member: true
+- account:
+    handle: kimmcmahon.bsky.social
+  member: true
+- account:
+    handle: kmassada.com
+  member: true
+- account:
+    handle: krisnova.net
+  member: true
+- account:
+    handle: kylestratis.com
+  member: true
+- account:
+    handle: lachie.bsky.social
+  member: true
+- account:
+    handle: leecalcote.bsky.social
+  member: true
+- account:
+    handle: leonardpahlke.bsky.social
+  member: true
+- account:
+    handle: liamrandall.bsky.social
+  member: true
+- account:
+    handle: lisamarienamphy.bsky.social
+  member: true
+- account:
+    handle: lizrice.bsky.social
+  member: true
+- account:
+    handle: lookitup.baby
+  member: true
+- account:
+    handle: lucvandonkersgoed.com
+  member: true
+- account:
+    handle: lukwam.com
+  member: true
+- account:
+    handle: luxask.bsky.social
+  member: true
+- account:
+    handle: marst.bsky.social
+  member: true
+- account:
+    handle: matscloud.com
+  member: true
+- account:
+    handle: matty.wtf
+  member: true
+- account:
+    handle: mauilion.dev
+  member: true
+- account:
+    handle: mbianchidev.bsky.social
+  member: true
+- account:
+    handle: mccune.org.uk
+  member: true
+- account:
+    handle: me.nzen.ski
+  member: true
+- account:
+    handle: medina.bsky.social
+  member: true
+- account:
+    handle: mediocredevops.com
+  member: true
+- account:
+    handle: mehmandarov.bsky.social
+  member: true
+- account:
+    handle: mestredelpino.com
+  member: true
+- account:
+    handle: metalmatze.de
+  member: true
+- account:
+    handle: mfahlandt.bsky.social
+  member: true
+- account:
+    handle: mikegcoleman.com
+  member: true
+- account:
+    handle: milesward.com
+  member: true
+- account:
+    handle: mistwire.com
+  member: true
+- account:
+    handle: mkoerbi.bsky.social
+  member: true
+- account:
+    handle: mlbiam.dev
+  member: true
+- account:
+    handle: mrbobbytabl.es
+  member: true
+- account:
+    handle: nabrahams.bsky.social
+  member: true
+- account:
+    handle: nanci.bsky.social
+  member: true
+- account:
+    handle: nathenharvey.bsky.social
+  member: true
+- account:
+    handle: nick.sausage.social
+  member: true
+- account:
+    handle: nickeberts.dev
+  member: true
+- account:
+    handle: nicole.dev
+  member: true
+- account:
+    handle: nimbinatus.bsky.social
+  member: true
+- account:
+    handle: olivi-eh.bsky.social
+  member: true
+- account:
+    handle: onlydole.dev
+  member: true
+- account:
+    handle: paulalkennedy.bsky.social
+  member: true
+- account:
+    handle: paulczar.bsky.social
+  member: true
+- account:
+    handle: pixelrobots.co.uk
+  member: true
+- account:
+    handle: prune998.bsky.social
+  member: true
+- account:
+    handle: puerco.mx
+  member: true
+- account:
+    handle: puja.dev
+  member: true
+- account:
+    handle: quinnypig.bsky.social
+  member: true
+- account:
+    handle: radu-matei.com
+  member: true
+- account:
+    handle: raphink.bsky.social
+  member: true
+- account:
+    handle: rawkode.dev
+  member: true
+- account:
+    handle: rexagod.bsky.social
+  member: true
+- account:
+    handle: reylejano.bsky.social
+  member: true
+- account:
+    handle: richburroughs.dev
+  member: true
+- account:
+    handle: rishab.cloud
+  member: true
+- account:
+    handle: robstr.dev
+  member: true
+- account:
+    handle: sagikazarmark.bsky.social
+  member: true
+- account:
+    handle: saiyampathak.com
+  member: true
+- account:
+    handle: santana.dev
+  member: true
+- account:
+    handle: schabell.org
+  member: true
+- account:
+    handle: seemasaharan.bsky.social
+  member: true
+- account:
+    handle: sidpalas.com
+  member: true
+- account:
+    handle: skpodila.bsky.social
+  member: true
+- account:
+    handle: social.hudson-viles.uk
+  member: true
+- account:
+    handle: sogrady.org
+  member: true
+- account:
+    handle: solidtubez.bsky.social
+  member: true
+- account:
+    handle: soltysh.bsky.social
+  member: true
+- account:
+    handle: soniacuff.com
+  member: true
+- account:
+    handle: sourishkrout.com
+  member: true
+- account:
+    handle: squillace.bsky.social
+  member: true
+- account:
+    handle: starefossen.bsky.social
+  member: true
+- account:
+    handle: stefanprodan.com
+  member: true
+- account:
+    handle: strongjz.bsky.social
+  member: true
+- account:
+    handle: stu.bsky.social
+  member: true
+- account:
+    handle: sublimi.no
+  member: true
+- account:
+    handle: sudermanjr.bsky.social
+  member: true
+- account:
+    handle: sugaroverflow.com
+  member: true
+- account:
+    handle: t-sc.eu
+  member: true
+- account:
+    handle: technosophos.bsky.social
+  member: true
+- account:
+    handle: terrytangyuan.xyz
+  member: true
+- account:
+    handle: theonlynabarun.bsky.social
+  member: true
+- account:
+    handle: thock.in
+  member: true
+- account:
+    handle: thomasvitale.com
+  member: true
+- account:
+    handle: tiffanyfay.dev
+  member: true
+- account:
+    handle: tnorlin.se
+  member: true
+- account:
+    handle: todaywasawesome.bsky.social
+  member: true
+- account:
+    handle: troy0820.dev
+  member: true
+- account:
+    handle: vbehar.bsky.social
+  member: true
+- account:
+    handle: vicnastea.io
+  member: true
+- account:
+    handle: virtualized6ix.bsky.social
+  member: true
+- account:
+    handle: vladionescu.me
+  member: true
+- account:
+    handle: vtimd.bsky.social
+  member: true
+- account:
+    handle: wiggitywhitney.bsky.social
+  member: true
+- account:
+    handle: wiredferret.bsky.social
+  member: true
+- account:
+    handle: xander.wtf
+  member: true
+- account:
+    handle: xavidop.bsky.social
+  member: true
+- account:
+    handle: xeiaso.net
+  member: true
+- account:
+    handle: xmudrii.bsky.social
+  member: true
+- account:
+    handle: youngnick.bsky.social
+  member: true
