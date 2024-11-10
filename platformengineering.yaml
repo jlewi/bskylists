@@ -3,208 +3,2336 @@ kind: AccountList
 metadata:
     labels: {}
 did: at://did:plc:5lwweotr4gfb7bbz2fqwdthf/app.bsky.graph.list/3l7yx65zcse25
-accounts:
-    - handle: a-z.dev
-    - handle: aaronw.dev
-    - handle: abangser.bsky.social
-    - handle: adamhjk.me
-    - handle: adrianamvillela.bsky.social
-    - handle: ahmet.dev
-    - handle: ahrkrak.bsky.social
-    - handle: aleqxan.bsky.social
-    - handle: alexellis.bsky.social
-    - handle: amandabrock.bsky.social
-    - handle: ams0.bsky.social
-    - handle: annietalvasto.bsky.social
-    - handle: aparker.io
-    - handle: asciidwarf.bsky.social
-    - handle: ashleywillis.bsky.social
-    - handle: auggie.dev
-    - handle: aurelievache.bsky.social
-    - handle: averagemarcus.bsky.social
-    - handle: bettyjunod.bsky.social
-    - handle: bgrant0607.bsky.social
-    - handle: birthmarkbart.bsky.social
-    - handle: boredabdel.bsky.social
-    - handle: brancz.bsky.social
-    - handle: brandon.dimcheff.com
-    - handle: brendandburns.bsky.social
-    - handle: bretfisher.com
-    - handle: brianlscott.com
-    - handle: bryanross.me
-    - handle: carlagg.bsky.social
-    - handle: carrycooldude.bsky.social
-    - handle: celestehorgan.bsky.social
-    - handle: chd.today
-    - handle: chrisshort.net
-    - handle: circlejtp.me
-    - handle: cloudikeme.bsky.social
-    - handle: cloudmelon.bsky.social
-    - handle: cloudnativeboy.bsky.social
-    - handle: cmcluck.bsky.social
-    - handle: collcoll.bsky.social
-    - handle: cote.io
-    - handle: cpanato.dev
-    - handle: craigbox.bsky.social
-    - handle: csanchez.bsky.social
-    - handle: cyberynn.bsky.social
-    - handle: danielle.fyi
-    - handle: danieloh30.bsky.social
-    - handle: darko.rup12.net
-    - handle: dartezmatteo.bsky.social
-    - handle: devopsguys.bsky.social
-    - handle: didicodes.bsky.social
-    - handle: dims.dev
-    - handle: dipeshrawat.dev
-    - handle: divineops.net
-    - handle: dnsmichi.bsky.social
-    - handle: dshnow.bsky.social
-    - handle: earth2marsh.com
-    - handle: eddiezane.bsky.social
-    - handle: edithpuclla.bsky.social
-    - handle: edsoncelio.dev
-    - handle: elchefe.me
-    - handle: eliine.dev
-    - handle: emilyfreeman.bsky.social
-    - handle: eminalemdar.bsky.social
-    - handle: erics-redsox.bsky.social
-    - handle: estesp.dev
-    - handle: farrah.bsky.social
-    - handle: forrestbrazeal.bsky.social
-    - handle: gelopfalcon.bsky.social
-    - handle: gergely.pragmaticengineer.com
-    - handle: gianarb.it
-    - handle: gregfenton.bsky.social
-    - handle: h.olysh.it
-    - handle: handle.invalid
-    - handle: hannahfoxwell.net
-    - handle: harthoover.com
-    - handle: hazelweakly.me
-    - handle: helayoty.bsky.social
-    - handle: horovits.bsky.social
-    - handle: hrittikhere.bsky.social
-    - handle: i-am-j.ag
-    - handle: iblancasa.bsky.social
-    - handle: icyphox.sh
-    - handle: inductor.dev
-    - handle: ironyuppie.com
-    - handle: jasonumiker.bsky.social
-    - handle: jeefy.dev
-    - handle: jerdog.dev
-    - handle: jeremy.lewi.us
-    - handle: jeremyrickard.com
-    - handle: jimmy.zelinskie.com
-    - handle: jkirstaetter.bsky.social
-    - handle: jlandure.dev
-    - handle: johncodes.com
-    - handle: joshuabezaleel.bsky.social
-    - handle: jpkroehling.bsky.social
-    - handle: juliafmorgado.bsky.social
-    - handle: justingarrison.com
-    - handle: kaiwalyakoparkar.bsky.social
-    - handle: kakkoyun.me
-    - handle: karenchu.online
-    - handle: kaslin.rocks
-    - handle: kaspernissen.xyz
-    - handle: kat.lol
-    - handle: kelseyhightower.com
-    - handle: kimmcmahon.bsky.social
-    - handle: kmassada.com
-    - handle: krisnova.net
-    - handle: kylestratis.com
-    - handle: lachie.bsky.social
-    - handle: leecalcote.bsky.social
-    - handle: leonardpahlke.bsky.social
-    - handle: liamrandall.bsky.social
-    - handle: lisamarienamphy.bsky.social
-    - handle: lizrice.bsky.social
-    - handle: lookitup.baby
-    - handle: lucvandonkersgoed.com
-    - handle: lukwam.com
-    - handle: luxask.bsky.social
-    - handle: marst.bsky.social
-    - handle: matscloud.com
-    - handle: matty.wtf
-    - handle: mauilion.dev
-    - handle: mbianchidev.bsky.social
-    - handle: mccune.org.uk
-    - handle: me.nzen.ski
-    - handle: medina.bsky.social
-    - handle: mediocredevops.com
-    - handle: mehmandarov.bsky.social
-    - handle: mestredelpino.com
-    - handle: metalmatze.de
-    - handle: mfahlandt.bsky.social
-    - handle: mikegcoleman.com
-    - handle: milesward.com
-    - handle: mistwire.com
-    - handle: mkoerbi.bsky.social
-    - handle: mlbiam.dev
-    - handle: mrbobbytabl.es
-    - handle: nabrahams.bsky.social
-    - handle: nanci.bsky.social
-    - handle: nathenharvey.bsky.social
-    - handle: nick.sausage.social
-    - handle: nickeberts.dev
-    - handle: nicole.dev
-    - handle: nimbinatus.bsky.social
-    - handle: olivi-eh.bsky.social
-    - handle: onlydole.dev
-    - handle: paulalkennedy.bsky.social
-    - handle: paulczar.bsky.social
-    - handle: pixelrobots.co.uk
-    - handle: prune998.bsky.social
-    - handle: puerco.mx
-    - handle: puja.dev
-    - handle: quinnypig.bsky.social
-    - handle: radu-matei.com
-    - handle: raphink.bsky.social
-    - handle: rawkode.dev
-    - handle: rexagod.bsky.social
-    - handle: reylejano.bsky.social
-    - handle: richburroughs.dev
-    - handle: rishab.cloud
-    - handle: robstr.dev
-    - handle: sagikazarmark.bsky.social
-    - handle: saiyampathak.com
-    - handle: santana.dev
-    - handle: schabell.org
-    - handle: seemasaharan.bsky.social
-    - handle: sidpalas.com
-    - handle: skpodila.bsky.social
-    - handle: social.hudson-viles.uk
-    - handle: sogrady.org
-    - handle: solidtubez.bsky.social
-    - handle: soltysh.bsky.social
-    - handle: soniacuff.com
-    - handle: sourishkrout.com
-    - handle: squillace.bsky.social
-    - handle: starefossen.bsky.social
-    - handle: stefanprodan.com
-    - handle: strongjz.bsky.social
-    - handle: stu.bsky.social
-    - handle: sublimi.no
-    - handle: sudermanjr.bsky.social
-    - handle: sugaroverflow.com
-    - handle: t-sc.eu
-    - handle: technosophos.bsky.social
-    - handle: terrytangyuan.xyz
-    - handle: theonlynabarun.bsky.social
-    - handle: thock.in
-    - handle: thomasvitale.com
-    - handle: tiffanyfay.dev
-    - handle: tnorlin.se
-    - handle: todaywasawesome.bsky.social
-    - handle: troy0820.dev
-    - handle: vbehar.bsky.social
-    - handle: vicnastea.io
-    - handle: virtualized6ix.bsky.social
-    - handle: vladionescu.me
-    - handle: vtimd.bsky.social
-    - handle: wiggitywhitney.bsky.social
-    - handle: wiredferret.bsky.social
-    - handle: xander.wtf
-    - handle: xavidop.bsky.social
-    - handle: xeiaso.net
-    - handle: xmudrii.bsky.social
-    - handle: youngnick.bsky.social
+items:
+    - account:
+        handle: 16ne.uk
+        did: did:plc:q7wscjy5jknxmo3ts2ehvvus
+      reason: The profile mentions 'Containers' and 'IaC' (Infrastructure as Code), which are both central practices in platform engineering. This indicates that the person is likely involved in developing or managing an internal developer platform.
+      member: true
+    - account:
+        handle: 20thr.bsky.social
+        did: did:plc:zzlqrbqyf2c2foxgehfnow3f
+      reason: The profile mentions working with containers and refers to application platforms, which suggests familiarity with technologies relevant to platform engineering. Additionally, the past experience at Google implies a strong background in engineering roles related to platforms.
+      member: true
+    - account:
+        handle: a-hilaly.bsky.social
+        did: did:plc:5eq6qassmuyaqhlqhjmxqk7j
+      reason: The individual works with Kubernetes, a key technology for building platforms, and their association with AWS suggests a focus on cloud infrastructure, which is central to platform engineering.
+      member: true
+    - account:
+        handle: a-z.dev
+      member: true
+    - account:
+        handle: aaronw.dev
+      member: true
+    - account:
+        handle: abangser.bsky.social
+      member: true
+    - account:
+        handle: abdennour.bsky.social
+        did: did:plc:ik7dax2cxmjz3w3x5hndqyu5
+      reason: The profile mentions 'DevOps consultant' which aligns with platform engineering roles. Additionally, the individual has certifications related to Kubernetes, a key technology used in building platforms.
+      member: true
+    - account:
+        handle: adamhjk.me
+      member: true
+    - account:
+        handle: adrian.mace.au
+        did: did:plc:d4ab3di7zfwmrbj5t5kvidda
+      reason: The person describes their role as focused on Platform Engineering, indicating their involvement in internal developer platforms and related practices.
+      member: true
+    - account:
+        handle: adrianamvillela.bsky.social
+      member: true
+    - account:
+        handle: aheritier.net
+        did: did:plc:f3erjivbx6t52tdt2fih7cuv
+      reason: The profile describes responsibilities related to platform engineering and mentions internal developer platforms, CI/CD practices, and relevant technologies like Jenkins, which align with the criteria for being part of the Platform Engineer community.
+      member: true
+    - account:
+        handle: ahmet.dev
+      member: true
+    - account:
+        handle: ahrkrak.bsky.social
+      member: true
+    - account:
+        handle: aldezex.com
+        did: did:plc:cj34fnfwilcdrojpskcjgfse
+      reason: The person describes their job role explicitly as a 'Platform Engineer', indicating they are part of the Platform Engineer community.
+      member: true
+    - account:
+        handle: alec.fail
+        did: did:plc:ppsk6wwubycem5lugjlskxdd
+      reason: The person describes themselves as doing platform engineering at Red Hat, which directly indicates their membership in the Platform Engineer community.
+      member: true
+    - account:
+        handle: aleqxan.bsky.social
+      member: true
+    - account:
+        handle: alexellis.bsky.social
+      member: true
+    - account:
+        handle: alexisbouchez.bsky.social
+        did: did:plc:htdos2wzubg33bgmhef3btpw
+      reason: The person is co-founder of a cloud platform specifically designed for developers, which indicates involvement in platform engineering practices.
+      member: true
+    - account:
+        handle: alexisv.bsky.social
+        did: did:plc:qpc3xacseikoqlfxyjfs73ou
+      reason: The individual mentions Kubernetes and Linux, which are technologies commonly used to build platforms, indicating their involvement in platform engineering. Additionally, the mention of fixing broken things suggests a hands-on role in infrastructure or platform management.
+      member: true
+    - account:
+        handle: alexvilain.bsky.social
+        did: did:plc:eh2wriwq7mgxzyklntgaatym
+      reason: The individual describes themselves as a 'Cloud, Containers & Kubernetes fanatic', which indicates they work with technologies relevant to platform engineering, particularly Kubernetes. This aligns them with the practices and technologies common in the platform engineer community.
+      member: true
+    - account:
+        handle: alper.nl
+        did: did:plc:wfml3smwyvohotnywklys5uq
+      reason: The individual explicitly states they are doing 'Platform Engineering', which indicates they belong to the Platform Engineer community.
+      member: true
+    - account:
+        handle: amandabrock.bsky.social
+      member: true
+    - account:
+        handle: aminech.bsky.social
+        did: did:plc:bto7fqakntdwspw6xyiyxkaz
+      reason: The profile mentions 'devops', 'cloud', and 'aws', which are relevant to platform engineering practices. The presence of 'devops' suggests they are involved in practices central to building and maintaining platforms.
+      member: true
+    - account:
+        handle: ams0.bsky.social
+      member: true
+    - account:
+        handle: amuslija.bsky.social
+        did: did:plc:cxgsjz34ktnf6km762qhgtuk
+      reason: The profile mentions 'lofi ci/cd pipelines', indicating experience with continuous integration and continuous deployment, which are crucial practices in platform engineering. Additionally, the term 'Engineer Manager' suggests a role related to engineering which may encompass platform engineering responsibilities.
+      member: true
+    - account:
+        handle: an0rak.bsky.social
+        did: did:plc:7jw7rydr4gvzbj3awntx373o
+      reason: The person describes their job role as SRE (Site Reliability Engineer), which is closely related to platform engineering.
+      member: true
+    - account:
+        handle: andrestc.com
+        did: did:plc:2ahvtlvs7x7snslw2ofatbkd
+      reason: The profile mentions 'SRE' which aligns with the role associated with platform engineering. Additionally, 'production engineer' implies a focus on maintaining and improving infrastructure, which often overlaps with platform engineering responsibilities.
+      member: true
+    - account:
+        handle: andyfleener.bsky.social
+        did: did:plc:72rr5s6ksk4iphsqdi5piaef
+      reason: The profile indicates the individual is a Senior Director of Platform and Data Engineering, which directly relates to platform engineering. The mention of DevOps and contributions related to engineering practices further supports their association with the platform engineer community.
+      member: true
+    - account:
+        handle: annietalvasto.bsky.social
+      member: true
+    - account:
+        handle: anxioustwit.ch
+        did: did:plc:flel3iea6qwc5qrjex6zfw6q
+      reason: The profile describes the individual's job role as a platform engineer, which directly aligns with the criteria for belonging to the Platform Engineer community.
+      member: true
+    - account:
+        handle: aparker.io
+      member: true
+    - account:
+        handle: arathunku.com
+        did: did:plc:yww4iq4ogs7f4bmqbiwfzbck
+      reason: The profile describes the individual as both an SRE (Site Reliability Engineer) and involved in platform-related activities, which aligns with roles commonly associated with platform engineering.
+      member: true
+    - account:
+        handle: arnecls.bsky.social
+        did: did:plc:5aumf5mvqubzvfzlyw3gdoni
+      reason: The person is an SRE (Site Reliability Engineer) which closely aligns with platform engineering practices. SREs typically work on internal developer platforms and engage with practices such as configuration and CI/CD.
+      member: true
+    - account:
+        handle: asciidwarf.bsky.social
+      member: true
+    - account:
+        handle: ashleywillis.bsky.social
+      member: true
+    - account:
+        handle: atta98.bsky.social
+        did: did:plc:yac6u7jn37so5yxah6yl3srs
+      reason: The person describes their role on the given website as a platform engineer, which directly indicates their belonging to the Platform Engineer community.
+      member: true
+    - account:
+        handle: auggie.dev
+      member: true
+    - account:
+        handle: aurelievache.bsky.social
+      member: true
+    - account:
+        handle: averagemarcus.bsky.social
+      member: true
+    - account:
+        handle: axell35.bsky.social
+        did: did:plc:ed3zns36v3w5r6isungippjs
+      reason: The person describes themselves as a Kubernetes admin and has a background in DevOps/GitOps, which are key components of platform engineering.
+      member: true
+    - account:
+        handle: axsegni.bsky.social
+        did: did:plc:zefabrdozdp6rsjyz6ojgrji
+      reason: The individual identifies as a Staff Site Reliability Engineer, which falls under the relevant job roles associated with platform engineering.
+      member: true
+    - account:
+        handle: b3o.tech
+        did: did:plc:2jymhcjk6pwofigpjj4hx65p
+      reason: The profile mentions a passion for Cloud and DevOps/Automation, and specifically lists Kubernetes, which is a technology commonly used in platform engineering. Therefore, this individual likely belongs to the Platform Engineer community.
+      member: true
+    - account:
+        handle: bala.bsky.social
+        did: did:plc:2hawhyfcioynjtdx4obmo2of
+      reason: The profile mentions SRE (Site Reliability Engineer) and expresses interest in platform engineering, as well as having experience with Kubernetes (k8s), which is a technology used for building platforms. This indicates involvement with practices central to platform engineering.
+      member: true
+    - account:
+        handle: bboreham.bsky.social
+        did: did:plc:nqpwjs6vkzwahlfd7fnja45g
+      reason: The individual has experience with Kubernetes, which is a technology used to build platforms, indicating they likely work in or have dealings with platform engineering.
+      member: true
+    - account:
+        handle: bbytheway.bsky.social
+        did: did:plc:zn45smvsoxscauajdznopsne
+      reason: The person describes their role as a DevOps engineer, which aligns with the platform engineering community. Additionally, they mention relevant technologies such as Kubernetes, AWS, and GCP, which are commonly used in building internal developer platforms.
+      member: true
+    - account:
+        handle: beard-o.bsky.social
+        did: did:plc:h2dhije4iz5xnb773l7p7dhl
+      reason: The profile mentions 'Platform engineering/SRE', which indicates that they are involved in platform engineering, fitting the criteria for the community.
+      member: true
+    - account:
+        handle: bencl.app
+        did: did:plc:antzuclromq3rftsk2wsky3v
+      reason: The individual describes their job role as SRE (Site Reliability Engineer), which is closely related to platform engineering. Therefore, they can be classified as a member of the Platform Engineer community.
+      member: true
+    - account:
+        handle: bengentil.bsky.social
+        did: did:plc:epm7wxwq5am6v7urgfqs62t5
+      reason: The individual describes their role as a staff engineer, and mentions Kubernetes, which is a key technology used in platform engineering.
+      member: true
+    - account:
+        handle: benhemp.bsky.social
+        did: did:plc:qj3xbqjp3fpqgm2fghb2qyel
+      reason: The individual is a Site Reliability Engineer (SRE) and mentions expertise in Kubernetes, which is a technology used in building platforms. This aligns with the platform engineering community.
+      member: true
+    - account:
+        handle: bennes.bsky.social
+        did: did:plc:pshn2eazm4v4pfq4qlcey5gu
+      reason: The profile explicitly states that the person is a 'Cloud / DevOps / Platform Engineer', indicating their role aligns with platform engineering. Additionally, their interest in being 'cloud-native' suggests familiarity with technologies and practices central to platform engineering.
+      member: true
+    - account:
+        handle: berkulsoy.bsky.social
+        did: did:plc:wjrduykkn4kwm2q3v27ykykr
+      reason: The profile mentions working with Kubernetes (K8S) and cloud technologies, which are relevant to platform engineering. Additionally, the individual has experience with Linux, which is commonly used in platform engineering roles. Therefore, it's classified as a member of the Platform Engineer community.
+      member: true
+    - account:
+        handle: bettyjunod.bsky.social
+      member: true
+    - account:
+        handle: bgrant0607.bsky.social
+      member: true
+    - account:
+        handle: bilbof.bsky.social
+        did: did:plc:qhqn5pjwwnaiy3oujyibjyjy
+      reason: The person describes themselves as an SRE (Site Reliability Engineer), which falls within the roles associated with platform engineering. Furthermore, they are engaged with multiple companies, indicating experience in relevant practices and potential involvement in internal developer platforms.
+      member: true
+    - account:
+        handle: birdy0.bsky.social
+        did: did:plc:7f7s4bqh7e5o2cogjdzzd7wo
+      reason: The profile explicitly states the person's role as a platform engineer, indicating their involvement in the Platform Engineer community.
+      member: true
+    - account:
+        handle: birthmarkbart.bsky.social
+      member: true
+    - account:
+        handle: blacktop.bsky.social
+        did: did:plc:3zgbgm56fm6cgyi5h7mgf2gz
+      reason: The GitHub profile of blacktop indicates involvement with cloud technologies and tooling related to platforms, which aligns with the practices of platform engineering.
+      member: true
+    - account:
+        handle: bojan-zivanovic.bsky.social
+        did: did:plc:qd3azemqtygz3kxbpofigdsx
+      reason: The person is a Director of Engineering at a company that focuses on platform solutions, which suggests involvement with platform engineering. They likely work on internal developer platforms and are expected to be familiar with technologies and practices central to the platform engineering community.
+      member: true
+    - account:
+        handle: boredabdel.bsky.social
+      member: true
+    - account:
+        handle: brancz.bsky.social
+      member: true
+    - account:
+        handle: brandon.dimcheff.com
+      member: true
+    - account:
+        handle: brandshaide.bsky.social
+        did: did:plc:jehjyhirbtqeu3qp3ikp2j7n
+      reason: The person describes their job role as SRE (Site Reliability Engineer), which is closely related to platform engineering. Additionally, they mention working with YAML, which is often used for configuration management in platform engineering.
+      member: true
+    - account:
+        handle: brendandburns.bsky.social
+      member: true
+    - account:
+        handle: bretfisher.com
+      member: true
+    - account:
+        handle: brianb.bsky.social
+        did: did:plc:ncszlkxtlcyrfi7l2qrdww5c
+      reason: The profile includes the description 'SRE / DevOps / System Design / Platform Eng', indicating that the individual is involved in Platform Engineering.
+      member: true
+    - account:
+        handle: briancollinson.bsky.social
+        did: did:plc:tqlfdpsagryu24frgxljmhlr
+      reason: The person describes their job role as a platform engineer, which directly identifies them as part of the Platform Engineer community.
+      member: true
+    - account:
+        handle: brianlscott.com
+      member: true
+    - account:
+        handle: bruecktech.bsky.social
+        did: did:plc:gmibdnfpjuwidrajbwdxw7gy
+      reason: The person describes themselves as a 'Staff Platform Engineer', which directly indicates their role within the platform engineering community.
+      member: true
+    - account:
+        handle: bruno.padz.dev
+        did: did:plc:zxokixcyc3szumoj4ab53cuk
+      reason: The individual describes their job role as SRE (Site Reliability Engineer), which falls under the platform engineering community, and their title 'Staff Engineer' suggests a seniority level consistent with platform-related work.
+      member: true
+    - account:
+        handle: brunogaru.bsky.social
+        did: did:plc:6x2bvze2d3snwmu56aykv5wz
+      reason: The person describes their job role as Principal SRE, which falls under the platform engineering community.
+      member: true
+    - account:
+        handle: bryanross.me
+      member: true
+    - account:
+        handle: bueti-online.ch
+        did: did:plc:ewsalrpy4iwwaetd25nhx3qc
+      reason: The profile indicates the person is a founding engineer focused on infrastructure, which falls under the platform engineering domain. Additionally, their mention of 'Infrastructure' aligns with core platform engineering principles.
+      member: true
+    - account:
+        handle: caioau.bsky.social
+        did: did:plc:nfzandclwatlu4atwvqcs7k6
+      reason: The person describes their job role as DevOps, which is closely related to platform engineering and indicates they work with platforms and development processes.
+      member: true
+    - account:
+        handle: caledhwa.bsky.social
+        did: did:plc:cq3eestgetw4s6daedow42iq
+      reason: 'The individual describes themselves as a Software Engineer and includes keywords such as #kubernetes, #aws, and #PlatformEngineering, which indicate they work with technologies relevant to platform engineering. Additionally, they have a focus on developer-centric practices, suggesting they are part of the community.'
+      member: true
+    - account:
+        handle: callaway.dev
+        did: did:plc:hvwzf5jwblzullnznn4c75e6
+      reason: The profile mentions SRE activities related to Kubernetes (K8s) and AWS, which are technologies commonly used in platform engineering. Therefore, this individual is likely involved in platform engineering practices.
+      member: true
+    - account:
+        handle: capileigh.bsky.social
+        did: did:plc:fnshmumtno3krcraxqofds5f
+      reason: The profile mentions 'Kubernetes' and 'Flux', which are technologies used for building platforms, indicating a strong association with platform engineering.
+      member: true
+    - account:
+        handle: carlagg.bsky.social
+      member: true
+    - account:
+        handle: carlosedp.com
+        did: did:plc:cl7wyyyqac74w7sugtntctif
+      reason: The individual works with Kubernetes and mentions building multiarch Kubernetes clusters, which aligns with platform engineering practices. Their role as a cloud architect suggests involvement in internal developer platforms, further supporting their membership in the platform engineer community.
+      member: true
+    - account:
+        handle: carlosenog.dev
+        did: did:plc:eskhzpwmbj75xwkzohjyzyne
+      reason: The profile explicitly mentions that the user is a 'Platform Engineer', which directly aligns with the criteria for belonging to the Platform Engineer community.
+      member: true
+    - account:
+        handle: carrycooldude.bsky.social
+      member: true
+    - account:
+        handle: celestehorgan.bsky.social
+      member: true
+    - account:
+        handle: ceperez.bsky.social
+        did: did:plc:xfu2parnul2a7pr6vxg5nwja
+      reason: The profile belongs to a platform engineer who works with technologies and practices central to platform engineering, such as machine learning platforms, infrastructure, and CI/CD.
+      member: true
+    - account:
+        handle: chd.today
+      member: true
+    - account:
+        handle: chipnick.com
+        did: did:plc:lrphxvv25aibthe7xoc2eeyy
+      reason: The individual is the Head of Platform, indicating a leadership role within the platform engineering space. They are involved with AWS and cloud technologies, which are relevant to platform engineering.
+      member: true
+    - account:
+        handle: chrisarcand.com
+        did: did:plc:papcq7m6iqiowzcliwvcwdzw
+      reason: The person describes their role as a Principal Engineer and mentions building Terraform, which is associated with infrastructure as code (IAC) practices. They also work on cloud infrastructure and distributed systems, which aligns with platform engineering technologies.
+      member: true
+    - account:
+        handle: chrischdi.bsky.social
+        did: did:plc:qv7lknncvdozfkm2l5bud5xx
+      reason: The person mentions upgrading Kubernetes clusters, which indicates that they are working with technologies used to build platforms, aligning with the practices of platform engineering.
+      member: true
+    - account:
+        handle: chrisshort.net
+      member: true
+    - account:
+        handle: christianh814.bsky.social
+        did: did:plc:bviheyphfa763ortumvxactw
+      reason: The profile mentions GitOps, which is a practice central to platform engineering, and also references Kubernetes (K8S) which indicates familiarity with technologies used to build platforms.
+      member: true
+    - account:
+        handle: chrsalx.dev
+        did: did:plc:nl26kfs25hty6lbkajaf3p6e
+      reason: The individual explicitly identifies as a 'Platform Engineer' in their profile, which directly indicates their role within the platform engineering community.
+      member: true
+    - account:
+        handle: circlejtp.me
+      member: true
+    - account:
+        handle: cloudikeme.bsky.social
+      member: true
+    - account:
+        handle: cloudmelon.bsky.social
+      member: true
+    - account:
+        handle: cloudnativeboy.bsky.social
+      member: true
+    - account:
+        handle: cmcluck.bsky.social
+      member: true
+    - account:
+        handle: cmh.dev
+        did: did:plc:qcpxmg5ocqnqql636dtg4vwi
+      reason: The person describes their job role as 'devops', which is closely related to platform engineering and involves practices central to building and maintaining platforms.
+      member: true
+    - account:
+        handle: colinwilson.uk
+        did: did:plc:exreodt2mfeqnxpi7docers5
+      reason: The profile mentions 'DevOps', 'Kubernetes', and 'SRE', which are all relevant to the Platform Engineer community. Additionally, SRE (Site Reliability Engineering) is closely related to platform engineering roles.
+      member: true
+    - account:
+        handle: collcoll.bsky.social
+      member: true
+    - account:
+        handle: coryodaniel.bsky.social
+        did: did:plc:6rra4piitlrm7t6u232rwu3n
+      reason: The profile mentions working with Kubernetes, which is a technology central to platform engineering. The individual is also involved in hosting a Platform Engineering Podcast, indicating a strong connection to the community. Additionally, their roles as CEO and Co-Founder suggest they are engaged in platform-related activities.
+      member: true
+    - account:
+        handle: costap75.bsky.social
+        did: did:plc:sn7q3ilpjkydp2m7vxpubmc4
+      reason: The profile mentions 'kubernetes' and 'aws', which are technologies used to build platforms. The inclusion of 'architecture' suggests a technical background related to platform engineering, thus classifying this person as a member of the Platform Engineer community.
+      member: true
+    - account:
+        handle: cote.io
+      member: true
+    - account:
+        handle: cpanato.dev
+      member: true
+    - account:
+        handle: crackmac.bsky.social
+        did: did:plc:33zycvw5gtp5c5yerdjdtvq4
+      reason: The profile mentions working with Docker and Kubernetes, which are technologies used to build platforms, indicating involvement in platform engineering practices.
+      member: true
+    - account:
+        handle: craigbox.bsky.social
+      member: true
+    - account:
+        handle: crqr.io
+        did: did:plc:6ihphjbif7jcw6oewatmkl7w
+      reason: The person describes their job role as 'Platform Engineer' and 'DevOps Consultant', which indicates they belong to the Platform Engineer community.
+      member: true
+    - account:
+        handle: csanchez.bsky.social
+      member: true
+    - account:
+        handle: ctype.bsky.social
+        did: did:plc:rrilxyqyjmsw2f456rcewhl5
+      reason: The profile mentions 'k8' (which refers to Kubernetes) and 'terraform', both of which are technologies commonly used in platform engineering. Additionally, GCP (Google Cloud Platform) fits the criteria for someone working with infrastructure in a cloud environment.
+      member: true
+    - account:
+        handle: cyberjames.bsky.social
+        did: did:plc:vnpng4waj5jasiop2fayaaod
+      reason: The profile mentions cloud, platform engineering, and technologies commonly used in platform engineering like containers, kubernetes, and docker, indicating active involvement in the community.
+      member: true
+    - account:
+        handle: cyberynn.bsky.social
+      member: true
+    - account:
+        handle: cyberzed.dk
+        did: did:plc:s6orcieqvnah3r25y7xqomzu
+      reason: The person describes their job role as a platform engineer, which qualifies them as a member of the Platform Engineer community.
+      member: true
+    - account:
+        handle: d-a-n.co
+        did: did:plc:72y2w4fnqnecnzemeqrype6y
+      reason: The profile mentions Kubernetes and eBPF, which are key technologies used in platform engineering. This indicates that the person is likely working with platforms and tools relevant to the internal developer platform, meeting the criteria for the Platform Engineer community.
+      member: true
+    - account:
+        handle: da5is.com
+        did: did:plc:cpbcovy63br4kqpk5gegdyvj
+      reason: The profile mentions a background in Kubernetes, which is a technology used to build platforms, and experience in an Azure Technical Specialist role focusing on infrastructure and development. These align with practices central to platform engineering.
+      member: true
+    - account:
+        handle: dajobe.bsky.social
+        did: did:plc:the72xetztjpd2nyfiervxud
+      reason: The user describes themselves as an SRE (Site Reliability Engineer) at Google Cloud, which is a role closely related to platform engineering. Their experience at Twitter as an SRE further confirms their involvement in infrastructure and platform-related work.
+      member: true
+    - account:
+        handle: danielle.fyi
+      member: true
+    - account:
+        handle: danieloh30.bsky.social
+      member: true
+    - account:
+        handle: danosaurusrex82.bsky.social
+        did: did:plc:u3ycoztr7fd7dql7imt4osqb
+      reason: The individual describes their role as both 'devops' and 'platform engineer', which directly aligns with the criteria for belonging to the Platform Engineer community.
+      member: true
+    - account:
+        handle: danpalmer.bsky.social
+        did: did:plc:hr6okws5b5vgpf2wjpf2cpnz
+      reason: The individual describes their role as SRE (Site Reliability Engineer) at Google, which is closely related to platform engineering, particularly in managing infrastructure and ensuring the reliability of services. Additionally, maintaining a large number of devices indicates experience with platforms and scalability.
+      member: true
+    - account:
+        handle: darko.rup12.net
+      member: true
+    - account:
+        handle: dartezmatteo.bsky.social
+      member: true
+    - account:
+        handle: dberkholz.com
+        did: did:plc:bfwcgslbhhugnqwuejvwzl4q
+      reason: The individual describes themselves as a Chief Architect, with a focus on platforms and mentions Kubernetes, which is a technology commonly associated with platform engineering. Their extensive experience in infrastructure and technology also suggests relevance to the Platform Engineer community.
+      member: true
+    - account:
+        handle: dbodky.me
+        did: did:plc:af4zrtznkdsunpo5u2c2myr6
+      reason: The profile mentions 'DevOps' and specifically states 'Kubernetes', which is a technology commonly used in platform engineering. The person identifies as a platform advocate, indicating involvement with platform technologies, satisfying the community criteria.
+      member: true
+    - account:
+        handle: dduportal.bsky.social
+        did: did:plc:6r43q5fa6pedwjlke6dw5wer
+      reason: The individual describes their role as an SRE, which fits within the platform engineering community, particularly since they work on the Jenkins project, a critical tool for CI/CD that is closely related to platform engineering practices.
+      member: true
+    - account:
+        handle: declan.mcaleese.uk
+        did: did:plc:w2tyhukoj4zkkb3ybr2lubj5
+      reason: The profile mentions 'Platforms' and 'Kubernetes', which are related to platform engineering. Additionally, the individual works in 'Field Engineering' at a company known for its cloud-native technologies, indicating involvement in platform-related work.
+      member: true
+    - account:
+        handle: deepybee.bsky.social
+        did: did:plc:bbwmarlmmesafpmtxx4uwumt
+      reason: The profile explicitly mentions 'Platform Engineering' and 'DevOps', indicating a role related to platform engineering. The reference to cloud architecture also aligns with the technologies used to build platforms.
+      member: true
+    - account:
+        handle: denverschouw.bsky.social
+        did: did:plc:3wonhnbfodprnjphmha2p7uz
+      reason: The description indicates that the person works as a platform engineer, which directly aligns with the criteria for membership in the Platform Engineer community.
+      member: true
+    - account:
+        handle: derbious.bsky.social
+        did: did:plc:nom4u534345xishdwhji6ylv
+      reason: The individual describes themselves as an SRE (Site Reliability Engineer), which falls under the broader category of platform engineering roles. Additionally, their interests in engineering suggest a connection to technical practices related to platform engineering.
+      member: true
+    - account:
+        handle: devguyio.bsky.social
+        did: did:plc:bdrmut25tvuaid3ezniqmof7
+      reason: The individual works with Kubernetes, which is a key technology used in platform engineering, indicating their involvement in building and maintaining internal developer platforms.
+      member: true
+    - account:
+        handle: devilleweppenaar.ca
+        did: did:plc:d4com76e3hvg6k7rpdavl4tl
+      reason: The person describes their work as focusing on 'backend platform stuff', which suggests involvement in platform engineering. Additionally, their mention of being a 'YAML wrangler' often implies experience with configuration management and infrastructure as code, which are central to platform engineering practices.
+      member: true
+    - account:
+        handle: devopsbob.bsky.social
+        did: did:plc:elusl2lobtx4655s5upnjxqd
+      reason: The individual describes themselves as 'devops', which is closely related to platform engineering, and they likely engage with practices and technologies relevant to this community.
+      member: true
+    - account:
+        handle: devopsguys.bsky.social
+      member: true
+    - account:
+        handle: didicodes.bsky.social
+      member: true
+    - account:
+        handle: diegopacheco.bsky.social
+        did: did:plc:ep2zcnav6svpgzhbjqnmtmmx
+      reason: The individual works with EKS (Elastic Kubernetes Service) and Kubernetes (k8s), which are technologies used to build platforms, indicating relevance to the Platform Engineer community.
+      member: true
+    - account:
+        handle: digidaniel.dev
+        did: did:plc:6hjwijrl7lza32jzdk2kgfol
+      reason: The person describes their job role as a DevOps Engineer, which aligns with the role of platform engineer. DevOps practices often overlap with platform engineering activities.
+      member: true
+    - account:
+        handle: dihalk.bsky.social
+        did: did:plc:e4k2f6fi4fkklutu5cbc5ryv
+      reason: The individual describes their role as SRE and mentions cloud and Kubernetes, which are relevant to platform engineering.
+      member: true
+    - account:
+        handle: dims.dev
+      member: true
+    - account:
+        handle: dipeshrawat.dev
+      member: true
+    - account:
+        handle: dirathea.com
+        did: did:plc:lfpfq6pztmlahxkn74chakr2
+      reason: The person describes their focus on container orchestration and cloud technologies, which are central to platform engineering practices, indicating they are likely working within the platform engineering community.
+      member: true
+    - account:
+        handle: divineops.net
+      member: true
+    - account:
+        handle: dkgaming.bsky.social
+        did: did:plc:htya4hghiohsczwjj3s44z5b
+      reason: The profile mentions 'DevOps & Security Engineering' and includes hashtags related to 'cloudnative,' 'kubernetes,' which indicates involvement with technologies used to build platforms, suggesting a role in platform engineering.
+      member: true
+    - account:
+        handle: dmitrigrabov.bsky.social
+        did: did:plc:wj2r6sp3x5iohzae52aqpgob
+      reason: The individual is building a TypeScript codegen platform, which suggests involvement in internal developer platforms. The use of technologies like TypeScript and possibly OpenAPI also aligns with platform engineering practices.
+      member: true
+    - account:
+        handle: dmitry.bsky.social
+        did: did:plc:rsbxnmxehiqxwn3idaldifbe
+      reason: The profile mentions 'site reliability engineer', which falls under the job roles related to platform engineering. Additionally, the interest in operating systems indicates familiarity with infrastructure technologies.
+      member: true
+    - account:
+        handle: dnsmichi.bsky.social
+      member: true
+    - account:
+        handle: dshnow.bsky.social
+      member: true
+    - account:
+        handle: dsmorse.bsky.social
+        did: did:plc:6zd37slqs4tb5gkv3g3zi4kt
+      reason: The profile mentions the person is a Director of Cloud and Platform Engineering, which indicates their involvement in platform engineering. Additionally, their leadership in the Docker community and affiliation with DevOpsDays suggests they are actively engaged in practices central to platform engineering.
+      member: true
+    - account:
+        handle: dtoki.io
+        did: did:plc:cbzbt6jmfjzw4cimar7jjz3i
+      reason: The person has previous experience as an SRE (Site Reliability Engineer) and in infrastructure engineering, which suggests they have the skills and background relevant to platform engineering, indicating membership in the community.
+      member: true
+    - account:
+        handle: dumchickenbiryani.bsky.social
+        did: did:plc:2cgax5hwebkb4rd45e6k3oys
+      reason: The profile mentions 'Principal in Cloud' and lists technologies such as Kubernetes (k8s) and AWS/GCP, which are relevant to platform engineering. This indicates involvement with building and managing cloud platforms.
+      member: true
+    - account:
+        handle: dye.bsky.social
+        did: did:plc:xdn7eten3slw6cfp6a2qk4mt
+      reason: The person describes their job role as 'platform engineer', which clearly indicates they belong to the Platform Engineer community.
+      member: true
+    - account:
+        handle: earth2marsh.com
+      member: true
+    - account:
+        handle: ecn.io
+        did: did:plc:hziislrqngwrgfbgeonckihb
+      reason: The person describes their job role as Site Reliability Engineer, which is closely related to platform engineering. Additionally, their projects suggest a focus on infrastructure and reliability, aligning with platform engineering practices.
+      member: true
+    - account:
+        handle: eddiezane.bsky.social
+      member: true
+    - account:
+        handle: edithpuclla.bsky.social
+      member: true
+    - account:
+        handle: edsoncelio.dev
+      member: true
+    - account:
+        handle: eduardoarango.bsky.social
+        did: did:plc:hqafnawwger53z6yixsrcxpb
+      reason: The profile mentions Kubernetes, which is a technology commonly used in building platforms, indicating involvement in platform engineering.
+      member: true
+    - account:
+        handle: elchefe.me
+      member: true
+    - account:
+        handle: eliine.dev
+      member: true
+    - account:
+        handle: emilyfreeman.bsky.social
+      member: true
+    - account:
+        handle: eminalemdar.bsky.social
+      member: true
+    - account:
+        handle: erganeshsharma.bsky.social
+        did: did:plc:rn4sscvlwm7vesbb46lulkpf
+      reason: The profile describes themselves as having roles related to DevOps and SRE, both of which are closely aligned with platform engineering. Additionally, mentioning GitOps and infrastructure work indicates familiarity with practices and technologies that are central to the platform engineering community.
+      member: true
+    - account:
+        handle: erics-redsox.bsky.social
+      member: true
+    - account:
+        handle: erik.dev
+        did: did:plc:ek25wclwfdku4m7ek2ggqlpc
+      reason: The profile mentions experience with Kubernetes, which is a technology used for building platforms, and indicates a role related to software engineering (SWE Manager) that may involve platform engineering tasks.
+      member: true
+    - account:
+        handle: erwinstaal.bsky.social
+        did: did:plc:qvyilfwxpcxxodd2migovrqt
+      reason: The person describes their job role as an Azure Architect, which aligns with platform engineering practices. They also mention technologies like K8S (Kubernetes), AzureCloud, and DevOps, which are commonly used in building internal developer platforms. Additionally, their mention of 'Infrastructure as Code' and 'Continuous Delivery' indicates involvement in practices central to platform engineering.
+      member: true
+    - account:
+        handle: estesp.dev
+      member: true
+    - account:
+        handle: ewlkn.bsky.social
+        did: did:plc:ttw7rssn4ty57pydbryui6z6
+      reason: The person is involved in building infrastructure related to IoT, and their work with improving Kubernetes UX indicates they are actively engaged with technologies relevant to platform engineering.
+      member: true
+    - account:
+        handle: farrah.bsky.social
+      member: true
+    - account:
+        handle: fastchicken.co.nz
+        did: did:plc:yvpxp6ojhp3j45ozt4btlt6r
+      reason: The profile describes the individual as an SRE (Site Reliability Engineer), which falls within the roles associated with platform engineering. Additionally, they list relevant technologies like AWS and Terraform, which are commonly used in platform engineering and DevOps practices.
+      member: true
+    - account:
+        handle: faustianbargain.bsky.social
+        did: did:plc:dgbq3x3mt2kocvbkon4wbpdn
+      reason: The profile describes the person as a 'systems/kubernetes engineer', which aligns with working in platform engineering and suggests they have relevant technical skills associated with building platforms.
+      member: true
+    - account:
+        handle: felicitas.pojtinger.com
+        did: did:plc:ijpidtwscybqhs5fxyzjojmu
+      reason: The profile mentions expertise in virtualization, containers, Kubernetes, and Linux, which are all relevant to platform engineering. Additionally, the term 'Code sorceress' suggests a technical role, indicating involvement in software or platform development.
+      member: true
+    - account:
+        handle: felixbecker.bsky.social
+        did: did:plc:rjd6jd4og4knll6s2oww2y5c
+      reason: The individual describes their work as making internal developer platforms, which aligns with the community's focus on internal developer platforms. This indicates involvement in platform engineering.
+      member: true
+    - account:
+        handle: fidelissauro.bsky.social
+        did: did:plc:gty3mhiq3i5omdu76wm2olur
+      reason: The profile describes the individual as a Site Reliability Engineer (SRE), which falls under the broader category of platform engineering roles. They also mention working with cloud native technologies and containers, aligning with practices central to platform engineering.
+      member: true
+    - account:
+        handle: forrestbrazeal.bsky.social
+      member: true
+    - account:
+        handle: franciscoed.bsky.social
+        did: did:plc:flr6kcavklqm6lvx2tmadcdn
+      reason: The person describes themselves as an SRE, which fits the job role criterion for the platform engineer community. Additionally, their mention of AWS indicates they are likely working with cloud technologies, relevant to building platforms.
+      member: true
+    - account:
+        handle: fre.bsky.social
+        did: did:plc:cpoxmu6binywo6lrdarnp74f
+      reason: The profile mentions working with CI/CD and cloud technologies, which are central to platform engineering practices. The mention of containers and clusters also indicates involvement with technologies used to build platforms.
+      member: true
+    - account:
+        handle: fusakla.bsky.social
+        did: did:plc:dazvtp3lvhx2zf7mxmfxyv2f
+      reason: The person describes themselves as SRE/DevOps, which falls within the roles associated with platform engineering. Additionally, they mention working with Prometheus, which is a technology commonly used for observability in platform engineering.
+      member: true
+    - account:
+        handle: gauz.se
+        did: did:plc:nitopwipqzcpvqy4wfhzwpjz
+      reason: The person describes themselves as a platform engineer and mentions working with Kubernetes, which is a technology commonly used in platform engineering.
+      member: true
+    - account:
+        handle: geertbaeke.bsky.social
+        did: did:plc:nxej6isv6g23rqagcxvkos7c
+      reason: The individual is an Azure & AI Platform Architect, indicating they work on internal developer platforms and likely engage with technologies relevant to platform engineering.
+      member: true
+    - account:
+        handle: gelopfalcon.bsky.social
+      member: true
+    - account:
+        handle: gergely.pragmaticengineer.com
+      member: true
+    - account:
+        handle: gfor.rest
+        did: did:plc:l44jvbenqtbven32h657s5cz
+      reason: The profile explicitly states that the person is a 'Platform Engineer', which directly aligns with the criteria for belonging to the Platform Engineer community.
+      member: true
+    - account:
+        handle: ghste.com
+        did: did:plc:ftprfmgjxbags7eojy4an2yt
+      reason: The person works with Kubernetes, containers, and cloud-native technologies, which are all integral to platform engineering.
+      member: true
+    - account:
+        handle: gianarb.it
+      member: true
+    - account:
+        handle: giantswarm.io
+        did: did:plc:4deorl272sj5ecxnhfd5ytmr
+      reason: The individual explicitly mentions 'platform engineering' in their description, indicating their engagement in the field. The phrase 'running the complex stuff' suggests involvement with underlying platform technologies, which aligns with practices central to platform engineering.
+      member: true
+    - account:
+        handle: glarizza.bsky.social
+        did: did:plc:yldyu4kmaz3teokwlth3tmep
+      reason: The individual describes themselves as a consultant at openinfrastructure.co, which indicates involvement in infrastructure. The mention of 'DevSecPlatOpsKube' suggests engagement with platform operations and Kubernetes, aligning with platform engineering practices.
+      member: true
+    - account:
+        handle: gortron.bsky.social
+        did: did:plc:vmdmtowua5yyxbghijsg3gw4
+      reason: The person describes themselves as an experienced platform engineer and mentions working with Terraform and AWS, which are technologies central to platform engineering.
+      member: true
+    - account:
+        handle: gpg.bsky.social
+        did: did:plc:fzcpmja7jfuym5u3dxvj3rgj
+      reason: The profile indicates involvement with platform engineering through various activities and technologies related to building platforms.
+      member: true
+    - account:
+        handle: gregfenton.bsky.social
+      member: true
+    - account:
+        handle: gunit.family
+        did: did:plc:xupbmgy6q4wkjupp7kg4c7pf
+      reason: The individual is building a virtual platform, which implies involvement in platform engineering activities. The mention of a specific platform project suggests they are likely working on an internal developer platform.
+      member: true
+    - account:
+        handle: gunnar.gunnargissel.com
+        did: did:plc:7fodcijelbzpzhm6xchcfyme
+      reason: The profile mentions 'building platforms' which indicates involvement in platform engineering, and it also lists relevant programming languages like Golang and Kotlin that are commonly used in platform development.
+      member: true
+    - account:
+        handle: gurupanguji.com
+        did: did:plc:hok3xauvarp7ekdyebbvlner
+      reason: The profile indicates that the individual works as a platform engineer, which directly aligns with the job role specified in the criteria. Additionally, the presence of relevant technologies and practices related to platform engineering suggests membership in the community.
+      member: true
+    - account:
+        handle: gusprice.com
+        did: did:plc:etcye4c7vlnevf3x4oofelrm
+      reason: The individual describes themselves as a Cloud infrastructure engineer and DevOps, indicating they are involved in platform engineering practices. They also mention working with containers, which is a technology central to platform engineering.
+      member: true
+    - account:
+        handle: gyuhox.bsky.social
+        did: did:plc:h6m2f4n32wrg5nhvuoxvl3db
+      reason: The profile belongs to a platform engineer who is likely working on an internal developer platform, as indicated by their contributions and projects that involve technologies such as Kubernetes, which are central to platform engineering.
+      member: true
+    - account:
+        handle: h.olysh.it
+      member: true
+    - account:
+        handle: handle.invalid
+      member: true
+    - account:
+        handle: hannahfoxwell.net
+      member: true
+    - account:
+        handle: harthoover.com
+      member: true
+    - account:
+        handle: hazelweakly.me
+      member: true
+    - account:
+        handle: hegedus.wtf
+        did: did:plc:f5vrfcvzosue62mipjmri2md
+      reason: The individual is an SRE Manager, which is closely related to platform engineering, and they focus on observability. Their role implies involvement in platform-related practices and technologies.
+      member: true
+    - account:
+        handle: helayoty.bsky.social
+      member: true
+    - account:
+        handle: henri.dev
+        did: did:plc:chvdikdyvslsuxivpeyqzvp3
+      reason: The person describes their job role as a platform engineer, which confirms that they belong to the Platform Engineer community.
+      member: true
+    - account:
+        handle: henry.at.stammkneipe.dev
+        did: did:plc:dz6k3k4mhx7lwutoxjauqhas
+      reason: The person explicitly describes their job role as a 'platform engineer', which directly aligns with the criteria for belonging to the Platform Engineer community.
+      member: true
+    - account:
+        handle: horovits.bsky.social
+      member: true
+    - account:
+        handle: hrittikhere.bsky.social
+      member: true
+    - account:
+        handle: i-am-j.ag
+      member: true
+    - account:
+        handle: iblancasa.bsky.social
+      member: true
+    - account:
+        handle: icharuss.bsky.social
+        did: did:plc:2iyav2kgsnbckdlojslquwm3
+      reason: The individual identifies as a Lead Platform Engineer, which directly aligns with the job role criterion for the Platform Engineer community.
+      member: true
+    - account:
+        handle: icyphox.sh
+      member: true
+    - account:
+        handle: ieni.dev
+        did: did:plc:7aeyv3w237xsuh76iyohwjuj
+      reason: The individual describes themselves as an Infrastructure Engineer, which falls under the umbrella of platform engineering roles, and they are involved with maintaining a development-related project.
+      member: true
+    - account:
+        handle: igorjagec.bsky.social
+        did: did:plc:zssogkzyk6oaf2xnntttxah2
+      reason: The profile describes the individual as a "DevOps Engineer" which is a relevant job role linked to platform engineering. Furthermore, the mention of 'DevOps' and their interest in technology suggests they engage with practices central to the platform engineering community.
+      member: true
+    - account:
+        handle: imjasonh.bsky.social
+        did: did:plc:q2ba6lk7ecm5lehfae7wryne
+      reason: The person describes themselves as a 'container nerd,' which suggests they work with container technologies relevant to platform engineering, indicating involvement in the community.
+      member: true
+    - account:
+        handle: inductor.dev
+      member: true
+    - account:
+        handle: iowaops.com
+        did: did:plc:e6434n7y6yjrutuqxubapbv5
+      reason: The person describes their career progression as SysAdmin -> DevOps -> SRE, which indicates involvement in roles that are closely related to platform engineering. Additionally, SRE (Site Reliability Engineering) practices overlap significantly with platform engineering.
+      member: true
+    - account:
+        handle: ironyuppie.com
+      member: true
+    - account:
+        handle: isao.bsky.social
+        did: did:plc:3y3g27ue4dzrne3sqtws6d57
+      reason: The person describes their role as SRE Manager, which aligns with the job roles associated with platform engineering. Additionally, their involvement with New Relic, an observability and performance monitoring tool, suggests they are working with technologies central to platform engineering.
+      member: true
+    - account:
+        handle: iurysouza.dev
+        did: did:plc:vbo357svte425ow2e4gslurs
+      reason: The profile describes a role related to 'App Platform' at Klarna, indicating involvement with an internal developer platform, which aligns with the platform engineering community.
+      member: true
+    - account:
+        handle: jakowski.bsky.social
+        did: did:plc:f3ankfqwhyavvmlgwe7jju4r
+      reason: The person has mentioned 'Microsoft Azure Infrastructure', which implies they work with cloud technologies relevant to platform engineering.
+      member: true
+    - account:
+        handle: jamieb.com
+        did: did:plc:y46ac265vlicv4xuggnhicji
+      reason: The person describes their job role as 'MDR / SOC Platform & Detection Engineering', which indicates involvement in platform engineering. The mention of being a CTO and previously working in the SOC (Security Operations Center) relates to the infrastructure aspect, fitting the platform engineering criteria.
+      member: true
+    - account:
+        handle: janaka.bsky.social
+        did: did:plc:rh7mu5hq2ohdkfncqz5mjtai
+      reason: The profile mentions 'Platform engineering' directly, indicating involvement in the community. Additionally, the reference to 'Developer tools' suggests familiarity with technologies and practices related to platform engineering.
+      member: true
+    - account:
+        handle: jasonumiker.bsky.social
+      member: true
+    - account:
+        handle: jasonwilder.com
+        did: did:plc:z2fckha4rs5itugqdbs6ykdt
+      reason: The person is working on AKS (Azure Kubernetes Service), which is relevant to platform engineering. Their interests in scalability and distributed systems also align with platform engineering principles.
+      member: true
+    - account:
+        handle: jaxz.in
+        did: did:plc:43txhpkmiyofr7tsd3bmzck4
+      reason: The person describes their job role specifically as 'Platform Engineering Supervisor', which directly aligns with the platform engineer community.
+      member: true
+    - account:
+        handle: jd7c5.bsky.social
+        did: did:plc:4kpfu4u76wmog7re54dgxml6
+      reason: The profile clearly identifies the person as working in Platform Engineering at Xceptor and mentions Kubernetes and Cloud, which are technologies used to build platforms.
+      member: true
+    - account:
+        handle: jeaneymerit.bsky.social
+        did: did:plc:qxy4t5ptr32ojjz4x7ufotwn
+      reason: The profile includes '#SRE' and mentions 'Cloud', which aligns with practices and roles pertinent to the platform engineering community.
+      member: true
+    - account:
+        handle: jeefy.dev
+      member: true
+    - account:
+        handle: jeffbrowntech.bsky.social
+        did: did:plc:7ymkhxmjf3qq64hxa5fvtlsp
+      reason: The person describes their role as a Cloud and DevOps Engineer, which aligns with platform engineering roles. They work with technologies like Azure and Terraform, which are commonly used in building platforms, indicating their involvement in platform engineering practices.
+      member: true
+    - account:
+        handle: jeppe.ch
+        did: did:plc:ma6nwimefalxwfha6g2ci4fp
+      reason: The GitHub profile of jeppech includes contributions to projects involving Kubernetes and cloud technologies, which are commonly used in platform engineering. Additionally, there's indication of experience with infrastructure as code, positioning them within the platform engineering community.
+      member: true
+    - account:
+        handle: jerdog.dev
+      member: true
+    - account:
+        handle: jeremy.lewi.us
+      member: true
+    - account:
+        handle: jeremyrickard.com
+      member: true
+    - account:
+        handle: jerkytreats.dev
+        did: did:plc:wrj3kps7yhds3eksjnu4pvbi
+      reason: The person explicitly describes their job title as 'Staff Platform Engineer', confirming their involvement in the platform engineering community.
+      member: true
+    - account:
+        handle: jerrycattell.bsky.social
+        did: did:plc:44cgrynkdiojeihbkr2j7svz
+      reason: The individual is an SRE (Site Reliability Engineer) which is closely related to platform engineering roles, suggesting they work with infrastructure and reliability practices that overlap with platform engineering concepts.
+      member: true
+    - account:
+        handle: jessereynolds.bsky.social
+        did: did:plc:wetzdtrmgtdekdvj3x7hpldq
+      reason: The individual mentions 'infrastructure as code', indicating they work with practices central to platform engineering, which qualifies them for the Platform Engineer community.
+      member: true
+    - account:
+        handle: jessesuen.bsky.social
+        did: did:plc:soaez5wu2yarbisruflcoizg
+      reason: The person is a Co-Founder & CTO at Akuity.io and a co-creator and project lead for Argo, which indicates a strong involvement in platform engineering and related technologies, particularly in the context of continuous delivery and application management.
+      member: true
+    - account:
+        handle: jezhumble.net
+        did: did:plc:2hwoihzwghrn6rmyz2fdfw4x
+      reason: The person describes their job role as SRE (Site Reliability Engineer), which falls under the categories of platform engineering roles. Additionally, working with GCP (Google Cloud Platform) suggests experience with cloud technologies relevant to platform engineering.
+      member: true
+    - account:
+        handle: jhx.bsky.social
+        did: did:plc:vbstgvexgti6nqi2yjph2zsf
+      reason: The profile describes previous work as a Distributed Storage SRE, indicating experience in a Site Reliability Engineer role, which is closely related to platform engineering. This suggests familiarity with infrastructure and platform practices.
+      member: true
+    - account:
+        handle: jimmy.zelinskie.com
+      member: true
+    - account:
+        handle: jkirstaetter.bsky.social
+      member: true
+    - account:
+        handle: jlandure.dev
+      member: true
+    - account:
+        handle: jmprusi.bsky.social
+        did: did:plc:tt4ey7rdjkq5k4xiwnlvj5mf
+      reason: The person describes themselves as an SRE (Site Reliability Engineer), which relates closely to platform engineering. Additionally, their interest in Kubernetes (K8s) and related technologies aligns with working on platforms.
+      member: true
+    - account:
+        handle: johansiebens.dev
+        did: did:plc:3xiphu4db23ahn437vnh6kqr
+      reason: The profile includes roles such as DevOps, SRE, and Platform Engineering, indicating involvement in creating and managing platforms, thus qualifying for the Platform Engineer community.
+      member: true
+    - account:
+        handle: johncodes.com
+      member: true
+    - account:
+        handle: johnlokerse.dev
+        did: did:plc:476yrzninay3kt44ae4tdkqn
+      reason: The person describes their job role as a DevOps Consultant and mentions Infrastructure as Code (IaC), which is a practice central to platform engineering. Additionally, their focus on Microsoft technology and Azure indicates they are working with platforms and technologies relevant to the community.
+      member: true
+    - account:
+        handle: johnops.bsky.social
+        did: did:plc:uu5epm2iwunpjtdawbzh57rv
+      reason: The person is a leader of Cloud Platforms, which indicates they work on an internal developer platform and likely engage in practices central to platform engineering.
+      member: true
+    - account:
+        handle: johnygroy.bsky.social
+        did: did:plc:mbbcw4i7aetqcarzhqwyfhuh
+      reason: The individual describes their job role as 'Platform Engineer', which directly aligns with the criteria for belonging to the Platform Engineer community.
+      member: true
+    - account:
+        handle: joostvdg.bsky.social
+        did: did:plc:qzrwgpmcspahijl7usdrolzz
+      reason: The description mentions 'DevOps,' 'CI/CD,' 'Kubernetes,' and 'Jenkins,' which are technologies and practices central to platform engineering. Additionally, the person currently works at Aegon and has prior experience in related companies, aligning with the characteristics of a platform engineer.
+      member: true
+    - account:
+        handle: jorgefatta.dev
+        did: did:plc:5hbbabrcx33sg26iheh62rtk
+      reason: The description includes 'platform stuff' which implies involvement in platform engineering practices, indicating that the person works within the Platform Engineer community.
+      member: true
+    - account:
+        handle: joshluedeman.bsky.social
+        did: did:plc:6y62rrjoxxa6lsrdjpixtqhs
+      reason: The profile indicates a role as a Principal Engineer at Microsoft, which likely involves working on platform engineering. Additionally, the mention of being a Kubernetes enthusiast suggests experience with technologies used to build platforms.
+      member: true
+    - account:
+        handle: joshuabezaleel.bsky.social
+      member: true
+    - account:
+        handle: jpkroehling.bsky.social
+      member: true
+    - account:
+        handle: juanfont.bsky.social
+        did: did:plc:wxa54hzrpjk5lxg7dxe6jau2
+      reason: The profile describes a role in Cloud and DevOps infrastructure, which aligns with platform engineering practices and technologies.
+      member: true
+    - account:
+        handle: juliafmorgado.bsky.social
+      member: true
+    - account:
+        handle: jurney.bsky.social
+        did: did:plc:pjslqfarvjttuibr4wfmtyti
+      reason: The person describes their job role as SRE, which is a relevant role in the platform engineering community.
+      member: true
+    - account:
+        handle: justingarrison.com
+      member: true
+    - account:
+        handle: justinretzolk.bsky.social
+        did: did:plc:2uphbcoohilknotx3dg2us2r
+      reason: The person is an Ecosystem Engineer at HashiCorp, which is closely related to platform engineering through their work on infrastructure as code (IaC) tools like Terraform, commonly used to build and manage platform infrastructures.
+      member: true
+    - account:
+        handle: jwmoss.bsky.social
+        did: did:plc:ficsiu554ertjlknl2jgupk3
+      reason: The person describes their job role as Site Reliability Engineer, which falls within the platform engineering community.
+      member: true
+    - account:
+        handle: kaiwalyakoparkar.bsky.social
+      member: true
+    - account:
+        handle: kakkoyun.me
+      member: true
+    - account:
+        handle: kamihack.bsky.social
+        did: did:plc:jkaudox7gw655r2viwrurzwy
+      reason: The person describes their role as an Infra Engineer at Sysdig, which indicates they are involved with infrastructure, a role closely related to platform engineering, especially in a cloud-native context.
+      member: true
+    - account:
+        handle: karenchu.online
+      member: true
+    - account:
+        handle: kaslin.rocks
+      member: true
+    - account:
+        handle: kaspernissen.xyz
+      member: true
+    - account:
+        handle: kat.lol
+      member: true
+    - account:
+        handle: katia-tal.bsky.social
+        did: did:plc:syqx2x7ns6yk6qp7yrr2xx4r
+      reason: The person describes themselves as a specialist in Cloud and DevOps, mentioning relevant roles and practices such as CICD, SRE, Kubernetes, containers, and Security, which are central to platform engineering.
+      member: true
+    - account:
+        handle: keithamus.social
+        did: did:plc:olwfcyixafqp6n4zbe2pskdj
+      reason: The profile describes the individual as a 'Web platform engineer' which directly matches the job role criteria for platform engineers.
+      member: true
+    - account:
+        handle: kelseyhightower.com
+      member: true
+    - account:
+        handle: kimmcmahon.bsky.social
+      member: true
+    - account:
+        handle: kmassada.com
+      member: true
+    - account:
+        handle: knutti.la
+        did: did:plc:hz5wm4fuadcowfle5t5o23lz
+      reason: The profile mentions 'Kubernetes,' which is a technology commonly used in platform engineering, specifically in managing containerized applications.
+      member: true
+    - account:
+        handle: krisbuytaert.bsky.social
+        did: did:plc:mgaod5p3t45exeaajmp26vq6
+      reason: The person describes involvement with DevOps, Infrastructure as Code, and organizational roles in DevOps events, indicating participation in practices central to platform engineering.
+      member: true
+    - account:
+        handle: krisnova.net
+      member: true
+    - account:
+        handle: krmcbride.dev
+        did: did:plc:oaohwj4ge4brytlyzel4nvui
+      reason: The profile describes the person as a Principal SRE and includes keywords related to cloud and Kubernetes, which are relevant to platform engineering.
+      member: true
+    - account:
+        handle: kubedoll.com
+        did: did:plc:bkexb2huwa2343haumoe5ijr
+      reason: The person describes their job role involving DevOps and Site Reliability, which are closely related to platform engineering. Additionally, they mention Kubernetes, a technology commonly used in building platforms.
+      member: true
+    - account:
+        handle: kubermatic.bsky.social
+        did: did:plc:otzhehe4kjbxgfc6iszuflik
+      reason: The profile describes involvement in building a software delivery platform and mentions technologies such as Kubernetes (#K8s) and cloud-native practices, indicating a strong connection to the platform engineering community.
+      member: true
+    - account:
+        handle: kylestratis.com
+      member: true
+    - account:
+        handle: lachie.bsky.social
+      member: true
+    - account:
+        handle: lamw.bsky.social
+        did: did:plc:ca2tmkq5bnke4qeycy6smdg5
+      reason: The person describes themselves as a 'Senior Staff Platform Engineering Architect', which directly indicates their role in platform engineering.
+      member: true
+    - account:
+        handle: laszlocph.bsky.social
+        did: did:plc:yqpypi4d6ppchhnmin5yukyr
+      reason: The description mentions working on an internal dev platform, which indicates involvement in platform engineering. Additionally, 'Flux-based' suggests familiarity with GitOps practices, aligning with the core aspects of platform engineering.
+      member: true
+    - account:
+        handle: lchausmann.bsky.social
+        did: did:plc:qjq4tur2u75c7bhd6wzzqjuy
+      reason: The person describes their job role as a Platform Engineer, which clearly indicates their involvement in the platform engineering community.
+      member: true
+    - account:
+        handle: leecalcote.bsky.social
+      member: true
+    - account:
+        handle: leonardpahlke.bsky.social
+      member: true
+    - account:
+        handle: leosales.com.br
+        did: did:plc:cquf5p3vafgif2zxyy6uzeb2
+      reason: The person mentions they are focused on managing applications in containers and working with a development team to disseminate SRE practices, which includes elements relevant to the platform engineering community.
+      member: true
+    - account:
+        handle: leotsgo.dev
+        did: did:plc:cgdg5lvyg34fiuytocrwfurl
+      reason: The individual describes themselves as an SRE (Site Reliability Engineer), which is a role closely related to platform engineering. SREs engage with practices central to platform engineering, especially in regards to reliability and infrastructure.
+      member: true
+    - account:
+        handle: lescoggi.bsky.social
+        did: did:plc:j4db45gk4zygmhsmjypkpqib
+      reason: The profile mentions 'SRE' and 'platform' in the job description, which indicates a role related to platform engineering. Additionally, working in infra aligns with the community focus, suggesting they handle aspects of platform engineering.
+      member: true
+    - account:
+        handle: levifig.com
+        did: did:plc:ppuj3ane7jumq3zzygcavakb
+      reason: The person is described as a Platform & Infrastructure Manager, which aligns with roles associated with platform engineering.
+      member: true
+    - account:
+        handle: levlaz.org
+        did: did:plc:in2mjb64ywjipuokvouopsrm
+      reason: The individual is working on CI/CD, which is a central practice in platform engineering. Additionally, they are using technologies like Golang and Python that are often used in building internal developer platforms.
+      member: true
+    - account:
+        handle: liamrandall.bsky.social
+      member: true
+    - account:
+        handle: lisamarienamphy.bsky.social
+      member: true
+    - account:
+        handle: livewyer.io
+        did: did:plc:kiddhea676mdhnejh34ofaog
+      reason: The description indicates that LiveWyer is a Kubernetes and Cloud Native Computing professional services company, which aligns with platform engineering practices and technologies.
+      member: true
+    - account:
+        handle: lizrice.bsky.social
+      member: true
+    - account:
+        handle: localeco.bsky.social
+        did: did:plc:ldddijvuwcwj4sbj5h3yqpkg
+      reason: The profile explicitly states that the individual is a 'Platform Engineer', which qualifies them as a member of the Platform Engineer community.
+      member: true
+    - account:
+        handle: lookitup.baby
+      member: true
+    - account:
+        handle: luca-cloud.bsky.social
+        did: did:plc:orrsnv3tgasxbi6aq6p52j3x
+      reason: The profile explicitly mentions 'platform engineering' and indicates engagement with platform engineering practices, signifying their active role in the community.
+      member: true
+    - account:
+        handle: luca.lanziani.com
+        did: did:plc:awe2kihq5cxt2iiow66q44ry
+      reason: The individual describes themselves as the Head of DevOps and Platform Engineering, which indicates their involvement in platform engineering activities.
+      member: true
+    - account:
+        handle: lucvandonkersgoed.com
+      member: true
+    - account:
+        handle: luisonthe.net
+        did: did:plc:fkuemc6r2utbtgzhjvxn4hcq
+      reason: The person is a Director of Platform Engineering, which clearly indicates a role related to platform engineering. This suggests they work on internal developer platforms.
+      member: true
+    - account:
+        handle: lukegb.dev
+        did: did:plc:7zh4z4gyzhtb4u4afpppforw
+      reason: The profile describes the individual as an SRE, which falls under the job roles related to platform engineering. Additionally, the mention of working in a relevant technical field indicates involvement with platforms.
+      member: true
+    - account:
+        handle: lukehinds.bsky.social
+        did: did:plc:k5tm45agloye4l375tmjeers
+      reason: The profile mentions 'K8s Security Response Team' which indicates a focus on Kubernetes, a critical technology in platform engineering. The individual has experience as an engineer at RedHat and is currently involved in building a new company, likely around platform-related technologies.
+      member: true
+    - account:
+        handle: lukwam.com
+      member: true
+    - account:
+        handle: luxask.bsky.social
+      member: true
+    - account:
+        handle: m.fornasa.it
+        did: did:plc:rougi6wkb3vzrllrxjy3azh7
+      reason: The person describes themselves as a Kubernetes Trainer, which indicates expertise in a key technology used for building platforms. Their role as a Cloud Native Independent Consultant and Strategic Advisor suggests involvement in practices central to platform engineering.
+      member: true
+    - account:
+        handle: madducks.pinblog.com
+        did: did:plc:h6zvg5fojpf2fjx5b24f3t2v
+      reason: The individual's title includes 'SRE Manager,' which fits within the roles associated with platform engineering. Additionally, they reference containers, which is a key technology used in platform engineering.
+      member: true
+    - account:
+        handle: madeinfrance.bsky.social
+        did: did:plc:jrgmrowegfr56mghl62smt4w
+      reason: The individual describes themselves as a Platform Full-Stack Engineer, which indicates their role aligns with platform engineering. Their background in computer science further supports their involvement in technical disciplines relevant to the platform engineering community.
+      member: true
+    - account:
+        handle: mads.danquah.dk
+        did: did:plc:qdt2q6eo67a4zl4ik352lj3q
+      reason: The person describes themselves as a 'builder of platforms' and works at the LEGO group, which suggests they are involved in platform engineering and developer productivity. This aligns with the community criteria.
+      member: true
+    - account:
+        handle: magdymj.bsky.social
+        did: did:plc:axl5sk6y65h53nllbjbs4qv7
+      reason: The person explicitly focuses on platform engineering, which indicates their involvement in the Platform Engineer community.
+      member: true
+    - account:
+        handle: magicaltrout.bsky.social
+        did: did:plc:lpr22b2to7ltcled7j45oyn7
+      reason: The individual describes their role as building research platforms, which aligns with platform engineering practices. They are involved with creating an internal developer platform for public good, indicating experience in platform-related work.
+      member: true
+    - account:
+        handle: marcof.net
+        did: did:plc:6tboz2v2ha7slojbd3jfsgkx
+      reason: The individual works with AWS cloud and Kubernetes/OpenShift, which are technologies used to build platforms. This indicates they are involved in platform engineering activities.
+      member: true
+    - account:
+        handle: marst.bsky.social
+      member: true
+    - account:
+        handle: marvin.beckers.dev
+        did: did:plc:lck2i2624crytgwwfszfyyfm
+      reason: The individual holds a leadership position in software engineering and is a CNCF Ambassador, which indicates involvement in cloud-native technologies. The mention of 'kcp' and the affiliation with 'Kubermatic' suggests experience with Kubernetes, a technology essential for platform engineering. Thus, they are part of the Platform Engineer community.
+      member: true
+    - account:
+        handle: mateusmiranda.bsky.social
+        did: did:plc:2ynz63somhbsp6bysh37pdo7
+      reason: The person identifies themselves as a Platform Engineer, which directly fits the criteria for belonging to the Platform Engineer community.
+      member: true
+    - account:
+        handle: matscloud.com
+      member: true
+    - account:
+        handle: matt.blwt.io
+        did: did:plc:k25mw5afzhtxzljr7bl4j63x
+      reason: The person describes themselves as a former SRE (Site Reliability Engineer), which is closely related to platform engineering, and they hold a senior engineering management position at Salesforce Heroku, a platform service. This implies experience and involvement in platform-related work.
+      member: true
+    - account:
+        handle: mattb.nz
+        did: did:plc:tahqlqq3snt43mumlxht6c3x
+      reason: The person describes themselves as an SRE (Site Reliability Engineer), which is a role closely related to platform engineering and often shares similar responsibilities and skills.
+      member: true
+    - account:
+        handle: mattbelldev.bsky.social
+        did: did:plc:hekeb7dz44pxq43s3jusflkb
+      reason: The profile states they are in Platform Engineering at Gousto, which directly indicates their involvement in the Platform Engineer community.
+      member: true
+    - account:
+        handle: mattiasgees.bsky.social
+        did: did:plc:3xpqabrz3bkydxv65gyl6y6a
+      reason: The person has a job role that is closely related to the platform engineering field and mentions Kubernetes, which is commonly used to build platforms.
+      member: true
+    - account:
+        handle: mattupstate.com
+        did: did:plc:wkwsfuioy4dg77n2brlwjfyc
+      reason: The profile explicitly describes the job role as 'Platform eng manager', indicating that they are involved in platform engineering.
+      member: true
+    - account:
+        handle: matty.wtf
+      member: true
+    - account:
+        handle: mauilion.dev
+      member: true
+    - account:
+        handle: mbbroberg.fun
+        did: did:plc:rdmvo4y4cuiuzsidcmwfs5b5
+      reason: The individual is a Director of product management for cloud platform engineering, suggesting direct involvement in the platform engineering community.
+      member: true
+    - account:
+        handle: mbianchidev.bsky.social
+      member: true
+    - account:
+        handle: mccune.org.uk
+      member: true
+    - account:
+        handle: mcharriere.bsky.social
+        did: did:plc:mjn2wuhdsmmorkkhvpqruvc3
+      reason: The profile explicitly mentions the job title 'platform engineer', which directly indicates that the person belongs to the Platform Engineer community.
+      member: true
+    - account:
+        handle: mdufourneaud.bsky.social
+        did: did:plc:ubqf7cov7h2lznbpy7xzelna
+      reason: The individual describes their role as a 'Cloud & Run Engineer' which aligns with platform engineering. They mention working with Kubernetes, a technology commonly used in building platforms.
+      member: true
+    - account:
+        handle: me.nzen.ski
+      member: true
+    - account:
+        handle: medina.bsky.social
+      member: true
+    - account:
+        handle: mediocredevops.com
+      member: true
+    - account:
+        handle: megzo.bsky.social
+        did: did:plc:5vjujtkqktmmjgtiyvjzr6xa
+      reason: The profile mentions Kubernetes, which is a key technology used in building platforms, and the person is associated with a company that likely works on internal platforms.
+      member: true
+    - account:
+        handle: mehmandarov.bsky.social
+      member: true
+    - account:
+        handle: mehtaverse-hq.bsky.social
+        did: did:plc:3xq2zv5nvnkhgti3oefqcxtm
+      reason: The profile mentions "Cloud Native things @AWS" and being a "Docker Captain", indicating experience with cloud technologies and containerization. This aligns with the skills and practices relevant to platform engineering.
+      member: true
+    - account:
+        handle: mehulkar.com
+        did: did:plc:n43l2ddupvdqve6kx6fblqe2
+      reason: The profile describes the individual as a 'Core Platform EM', which suggests involvement with internal platforms, and includes a role associated with platform engineering.
+      member: true
+    - account:
+        handle: mekhanique.bsky.social
+        did: did:plc:v3nchg5kw5vjtodnbihf5fnn
+      reason: The profile describes the person as an SRE and mentions DevOps and Platform Engineering, which aligns with the criteria that they describe their job roles related to platform engineering.
+      member: true
+    - account:
+        handle: mestredelpino.com
+      member: true
+    - account:
+        handle: metalmatze.de
+      member: true
+    - account:
+        handle: mfahlandt.bsky.social
+      member: true
+    - account:
+        handle: michaelcade.bsky.social
+        did: did:plc:y3asksb3jqmtwefuqmys3kne
+      reason: The individual describes themselves as a Technologist with a focus on DevOps, Cloud, and Kubernetes, which indicates involvement with technologies central to platform engineering.
+      member: true
+    - account:
+        handle: miguelalho.pt
+        did: did:plc:zj7oe7x6ehxwgau2l764ifkk
+      reason: The individual describes their role as a Principal SW Engineer in Platform Engineering, indicating they are part of the platform engineering community.
+      member: true
+    - account:
+        handle: mihai-safta.bsky.social
+        did: did:plc:rddsg7c5tsqnyfef5pyik43n
+      reason: The profile belongs to a platform engineer as it mentions working on platform-related practices and technologies.
+      member: true
+    - account:
+        handle: mike.priscella.com
+        did: did:plc:ql2plsizperhdvys36bf4wa5
+      reason: The person holds a job title in platform engineering and is knowledgeable about Kubernetes, which is a technology commonly used in building platforms.
+      member: true
+    - account:
+        handle: mikebroberts.com
+        did: did:plc:bxni23z4wyotakgltw3s25fd
+      reason: The profile mentions 'Cloud architecture' and 'DevOps', which are relevant to platform engineering. Additionally, AWS, as a cloud technology, aligns with building platforms.
+      member: true
+    - account:
+        handle: mikebrow.bsky.social
+        did: did:plc:2tl6brm62yeg22stctmzx3f6
+      reason: The profile indicates involvement with Kubernetes projects and mentions working with containerd, which aligns with platform engineering technologies and practices.
+      member: true
+    - account:
+        handle: mikegcoleman.com
+      member: true
+    - account:
+        handle: mikelevan.bsky.social
+        did: did:plc:f3g4qctsws7tyuekasw6egjd
+      reason: The person works in platform engineering and has experience with Kubernetes, which is a technology used to build platforms. Their role as a consultant and involvement with Kubernetes release teams indicates they are active in the platform engineering community.
+      member: true
+    - account:
+        handle: mikesplain.bsky.social
+        did: did:plc:ac7f437g2qjhe5h57y4clhgu
+      reason: The individual is a Principal Engineer with experience in Kubernetes, a key technology used for building platforms. Their background as a former maintainer of Kubernetes kOps further suggests a strong alignment with platform engineering practices.
+      member: true
+    - account:
+        handle: milesbxf.net
+        did: did:plc:4m4zrjrq7644jotrglvxtzms
+      reason: The person describes their job role as a tech lead in infra-platform, which aligns with platform engineering. This suggests involvement in working on an internal developer platform.
+      member: true
+    - account:
+        handle: milesward.com
+      member: true
+    - account:
+        handle: mishra.dev
+        did: did:plc:l2yizfe6cb7wyolcrnprtue6
+      reason: The individual has experience at HashiCorp, a company known for infrastructure automation, and mentions creating 'Atlantis,' a tool that is related to GitOps practices, which is central to platform engineering.
+      member: true
+    - account:
+        handle: mistwire.com
+      member: true
+    - account:
+        handle: mj.io
+        did: did:plc:rq2z3vsrqgb7ravfb6knsy5b
+      reason: The profile mentions 'Platform Engineering' which indicates a focus on platform engineering practices and aligns with the community.
+      member: true
+    - account:
+        handle: mkoerbi.bsky.social
+      member: true
+    - account:
+        handle: mlbiam.dev
+      member: true
+    - account:
+        handle: moelholm.bsky.social
+        did: did:plc:zery4qnfelgmhoa7efkxmi5f
+      reason: The profile includes key terms related to platform engineering such as 'IaC' (Infrastructure as Code) and 'Kubernetes', which are central to building and managing internal developer platforms.
+      member: true
+    - account:
+        handle: moll.dev
+        did: did:plc:vlblikmsgpx2i7fvxinrsvzu
+      reason: The person describes their job role as an SRE, which is related to platform engineering, and they likely work on an internal developer platform as part of their responsibilities.
+      member: true
+    - account:
+        handle: monotek.bsky.social
+        did: did:plc:74aqu4lga5bwtnkaa2jaaxx7
+      reason: The individual describes themselves as an SRE, which is a role closely related to platform engineering. They also work mainly with Kubernetes, a technology used in platform engineering, and their involvement in GitHub/OpenSource projects related to Kubernetes indicates active participation in platform-related work.
+      member: true
+    - account:
+        handle: mrbobbytabl.es
+      member: true
+    - account:
+        handle: mreider.com
+        did: did:plc:rzbmukmylzcpnirzaojzmaju
+      reason: The person mentions working on Kubernetes (k8s), which is a technology central to platform engineering. Additionally, their focus on observability suggests they are engaged in practices relevant to developers and infrastructure management.
+      member: true
+    - account:
+        handle: mrunalp.bsky.social
+        did: did:plc:qdpaxrsfe4234bssg5eg7dor
+      reason: The person works on Kubernetes and OpenShift, which are technologies used to build platforms, indicating involvement in platform engineering.
+      member: true
+    - account:
+        handle: mtod.bsky.social
+        did: did:plc:wlkn7nmyysrlnihbd5fma6tk
+      reason: The person describes their job role as Lead SRE, which is closely related to platform engineering. Additionally, their focus on automating deployments indicates involvement in practices central to platform engineering.
+      member: true
+    - account:
+        handle: mtsa.dev
+        did: did:plc:3bob27ssxllim6i3wgvaavmg
+      reason: The profile explicitly states that they are a platform engineer, indicating a clear connection to the Platform Engineer community.
+      member: true
+    - account:
+        handle: muemich.bsky.social
+        did: did:plc:x5bsuvy4aslotgpgwx3lvtde
+      reason: The person identifies their interests as including 'Platform Engineering', which indicates their involvement or expertise in the field. Additionally, their position as a CTO suggests a leadership role that often relates to overseeing platform development and operations.
+      member: true
+    - account:
+        handle: munnerz.bsky.social
+        did: did:plc:2zpqe26ywde6kaj5oltztfjc
+      reason: The person is working with Kubernetes, a technology commonly used in building platforms, indicating a role related to platform engineering.
+      member: true
+    - account:
+        handle: nabarun.dev
+        did: did:plc:rl2niradlervlkcn3inq5l3d
+      reason: The profile indicates a strong involvement in Kubernetes, which is a core technology used in platform engineering. The person's roles suggest a deep understanding of control planes, contributing to open-source projects aligned with platform engineering practices, thus making them a member of the Platform Engineer community.
+      member: true
+    - account:
+        handle: nabrahams.bsky.social
+      member: true
+    - account:
+        handle: nanci.bsky.social
+      member: true
+    - account:
+        handle: nandakumar12.bsky.social
+        did: did:plc:bcz4ur6f7yvbilsm5dybygph
+      reason: The individual describes their job role as SRE (Site Reliability Engineer), which is closely related to platform engineering, and they likely work with platform technologies.
+      member: true
+    - account:
+        handle: nataliagranato.xyz
+        did: did:plc:gggnkekp6ug6y4ok764qo5pd
+      reason: The profile explicitly mentions 'Plataform Engineer', which indicates their involvement in platform engineering. Additionally, the mention of 'DevOps', 'SRE', and 'Cloud Native' suggests they are engaged in practices relevant to platform engineering.
+      member: true
+    - account:
+        handle: nathanhruby.bsky.social
+        did: did:plc:2v7ehfxsjznevfnpxo4qtds6
+      reason: The individual describes themselves with the tags 'devops' and 'sre', which align with roles central to platform engineering, indicating they likely work in that domain.
+      member: true
+    - account:
+        handle: nathanpower.bsky.social
+        did: did:plc:sy3mcaz5aqkhisrk4gaxbrb3
+      reason: The person describes their job role specifically as a 'staff platform engineer', which qualifies them as a member of the Platform Engineer community.
+      member: true
+    - account:
+        handle: nathenharvey.bsky.social
+      member: true
+    - account:
+        handle: navneet066.bsky.social
+        did: did:plc:7j4rubpaes6rifjnpl7z4vm4
+      reason: The individual describes themselves as an Infrastructure Architect and mentions expertise in Kubernetes (K8S), which is a technology commonly associated with platform engineering. This implies involvement in building and maintaining platforms.
+      member: true
+    - account:
+        handle: neildavies.bsky.social
+        did: did:plc:2ihtrmg5tr4cl2i5ytuaaaku
+      reason: The profile explicitly mentions 'Platform Engineer', which is directly related to the role criteria for the Platform Engineer community.
+      member: true
+    - account:
+        handle: nequo.bsky.social
+        did: did:plc:if42j7heums5xlbyjlggtjgx
+      reason: The individual describes their job role as a 'Linux Platform Engineer,' which qualifies them as a member of the Platform Engineer community.
+      member: true
+    - account:
+        handle: netologist.bsky.social
+        did: did:plc:vd3p63mkxvuz7bluezkfsnus
+      reason: The person describes themselves as a platform engineer, which directly aligns with the community's definition.
+      member: true
+    - account:
+        handle: neumanndaniel.bsky.social
+        did: did:plc:2uh2vwtsf7iygojcyo6cv4wc
+      reason: The individual is a Sr. Staff Software Engineer and has experience with Azure, AKS (Azure Kubernetes Service), Terraform, and Kubernetes, which are relevant to platform engineering. The references to cloud and container technologies indicate involvement in building platforms.
+      member: true
+    - account:
+        handle: nhudson.dev
+        did: did:plc:rn56wketecujb6y6qwjsf7to
+      reason: The individual mentions 'cloudnative' and 'kubernetes', which are technologies central to platform engineering, indicating their involvement in building cloud platforms.
+      member: true
+    - account:
+        handle: nicholas.dille.name
+        did: did:plc:thpxxbdfgudy4vq2mnhlwkaz
+      reason: The person describes themselves as a DevOps Engineer and mentions working with containers, Kubernetes, and CI/CD practices, which aligns with platform engineering.
+      member: true
+    - account:
+        handle: nick.sausage.social
+      member: true
+    - account:
+        handle: nickeberts.dev
+      member: true
+    - account:
+        handle: nicole.dev
+      member: true
+    - account:
+        handle: nimbinatus.bsky.social
+      member: true
+    - account:
+        handle: nimishamehta.bsky.social
+        did: did:plc:biyjcuxg7s6vnz63jjfhddla
+      reason: The profile mentions 'Building on Kubernetes', indicating that the person works with technologies used to build platforms, which aligns with the Platform Engineer community.
+      member: true
+    - account:
+        handle: nlamirault.bsky.social
+        did: did:plc:2vlknsxjiibtqiqme4n5gkcv
+      reason: The profile mentions 'kubernetes' and 'terraform', which are technologies commonly used in platform engineering, indicating involvement in building and managing internal developer platforms.
+      member: true
+    - account:
+        handle: nlowe.dev
+        did: did:plc:l4zbqvjimcqekj73oyhyjrm2
+      reason: The person describes themselves as a Principal SRE, which falls under the category of roles relevant to platform engineering. Additionally, the mention of Linux and Open Source indicates familiarity with technologies often used in platform engineering, supporting their membership in the community.
+      member: true
+    - account:
+        handle: noel-kevin.be
+        did: did:plc:ncoe6rzokmbyr73k4chz2vmj
+      reason: The profile includes 'SRE' which indicates a role related to platform engineering. Additionally, it mentions 'K8s' (Kubernetes) which is a technology used in platform development, supporting the classification.
+      member: true
+    - account:
+        handle: nomster.bsky.social
+        did: did:plc:x6swaml5mzk5moq7fzqd23cv
+      reason: The person describes their job role as 'web platform engineer', which aligns with the roles identified for the Platform Engineer community.
+      member: true
+    - account:
+        handle: ntakashi.com
+        did: did:plc:3tnizaa4mzzli4s3sue72uj4
+      reason: The profile mentions SRE (Site Reliability Engineer), which is a role closely aligned with platform engineering, and it also references cloud-native technology, which suggests they may be working on or with platforms.
+      member: true
+    - account:
+        handle: olivi-eh.bsky.social
+      member: true
+    - account:
+        handle: omurilo.dev
+        did: did:plc:cijgmrdp2i7jwougknw2lsae
+      reason: The profile indicates the person is a 'Platform Engineer', which directly aligns with the roles associated with the Platform Engineer community.
+      member: true
+    - account:
+        handle: onlydole.dev
+      member: true
+    - account:
+        handle: outsider.dev
+        did: did:plc:pj47jnzs2epyh6qzrjus3c3j
+      reason: The person describes their job role as Site Reliability Engineer (SRE), which is closely related to platform engineering.
+      member: true
+    - account:
+        handle: ouvessvit.bsky.social
+        did: did:plc:x3e7mgib5h2vca3ata65x4zb
+      reason: The person describes themselves as a systems/cloud/platform engineer, which indicates they are part of the platform engineering community. They mention a focus on data platforms and security, which aligns with working on technology relevant to internal developer platforms.
+      member: true
+    - account:
+        handle: pacoid.bsky.social
+        did: did:plc:sd6lflrgcg7tuqb4kx2oga7k
+      reason: The profile indicates that the individual is involved in platform engineering tasks, suggesting they work with internal developer platforms and likely possess skills relevant to the community.
+      member: true
+    - account:
+        handle: patrickdap.com
+        did: did:plc:c4o3qqe7wi7s33awiev6kg35
+      reason: The profile mentions 'doing all things Kubernetes,' which is a key technology for building internal developer platforms, indicating a strong involvement in platform engineering.
+      member: true
+    - account:
+        handle: paulalkennedy.bsky.social
+      member: true
+    - account:
+        handle: paulczar.bsky.social
+      member: true
+    - account:
+        handle: pedrosaxu.bsky.social
+        did: did:plc:tqtv76rwwnk77f37clk3pvbl
+      reason: The profile mentions 'devops specialist' and includes references to 'kubereneteira' (related to Kubernetes) and 'terraformeira' (referring to Terraform), which are technologies commonly used in platform engineering. Therefore, the person belongs to the Platform Engineer community.
+      member: true
+    - account:
+        handle: pehli.dev
+        did: did:plc:4sfciwxpa4yabww7ta4uboll
+      reason: The person describes their job role as a platform engineer and mentions technologies such as Kubernetes, which are commonly associated with platform engineering. Additionally, the use of hashtags related to DevOps suggests a familiarity with practices central to the field.
+      member: true
+    - account:
+        handle: permadeath.com
+        did: did:plc:nlzmjyfv6loqtxyzvdcznwgf
+      reason: The description mentions 'AI/ML infrastructure' and 'SRE', along with 'k8s' (Kubernetes), which aligns with roles and technologies used in platform engineering. Therefore, this profile belongs to the Platform Engineer community.
+      member: true
+    - account:
+        handle: peterwarnock.com
+        did: did:plc:xegbnkzg7qiuqfslx3pphq3i
+      reason: 'The profile includes hashtags related to platform engineering, specifically mentioning #platformengineering, #docker, #k8s (kubernetes), and #cicd (continuous integration and continuous deployment), which indicates their involvement in practices and technologies relevant to the Platform Engineer community.'
+      member: true
+    - account:
+        handle: phenlix.bsky.social
+        did: did:plc:7q36xwxjhm2l7ud3gw3bzbfa
+      reason: The individual describes their job role as SRE (Site Reliability Engineer), which is a role that is closely related to platform engineering and involves working on platforms.
+      member: true
+    - account:
+        handle: pixelrobots.co.uk
+      member: true
+    - account:
+        handle: pontifcodes.bsky.social
+        did: did:plc:g27pjoqoiqroa52phyzyh62n
+      reason: The individual describes their role as a DevOps Engineer and mentions technologies and practices relevant to platform engineering, such as CKA (Certified Kubernetes Administrator), CKAD (Certified Kubernetes Application Developer), and Terraform, which is used for Infrastructure as Code (IAC). This aligns well with the classification criteria for being part of the Platform Engineer community.
+      member: true
+    - account:
+        handle: precompiled.bsky.social
+        did: did:plc:e3g7hwwfttvzmzaydmrpl4vq
+      reason: The person identifies as a Staff SRE, which aligns with the role of a platform engineer, indicating they are likely working on infrastructure and internal platforms.
+      member: true
+    - account:
+        handle: prune998.bsky.social
+      member: true
+    - account:
+        handle: puerco.mx
+      member: true
+    - account:
+        handle: puja.dev
+      member: true
+    - account:
+        handle: quinnypig.bsky.social
+      member: true
+    - account:
+        handle: radu-matei.com
+      member: true
+    - account:
+        handle: rafaelreia.bsky.social
+        did: did:plc:7cy4sp6mf4yzcshf6wadpvhs
+      reason: The description explicitly states that the person is a platform engineer, which directly aligns with the criteria for belonging to the Platform Engineer community.
+      member: true
+    - account:
+        handle: ragokan.bsky.social
+        did: did:plc:u6runxntb4jaipxs4gqpohe5
+      reason: The profile indicates involvement with platform engineering and relevant technologies, aligning with the criteria for the Platform Engineer community.
+      member: true
+    - account:
+        handle: raphink.bsky.social
+      member: true
+    - account:
+        handle: rawkode.dev
+      member: true
+    - account:
+        handle: rbrisita.bsky.social
+        did: did:plc:pfwy2xwbkurgdohyqownr27p
+      reason: The individual is working on the codegps.co platform, indicating involvement in platform development, which aligns with the Platform Engineer community.
+      member: true
+    - account:
+        handle: rcuchillas.bsky.social
+        did: did:plc:quk433nuouywmkhpqmm6qs6x
+      reason: The person describes their job role as SRE, which falls under the broad category of platform engineering roles.
+      member: true
+    - account:
+        handle: rexagod.bsky.social
+      member: true
+    - account:
+        handle: reylejano.bsky.social
+      member: true
+    - account:
+        handle: richardcase.dev
+        did: did:plc:slaok4nhqd344l56jihvqfal
+      reason: The profile describes a Principal Engineer who builds Kubernetes things, indicating direct involvement with platform technologies related to Kubernetes, which is commonly used in internal developer platforms. This suggests a strong alignment with platform engineering practices.
+      member: true
+    - account:
+        handle: richburroughs.dev
+      member: true
+    - account:
+        handle: rickgeerts.bsky.social
+        did: did:plc:xl2n4m4jpsungvca4yrsigg7
+      reason: The individual describes themselves as a DevOps Engineer and mentions 'Cloud Native', indicating familiarity with cloud technologies. The term 'Kubestronaut' suggests expertise with Kubernetes, which is relevant to platform engineering. Therefore, this profile aligns with the platform engineer community.
+      member: true
+    - account:
+        handle: ricoberger.bsky.social
+        did: did:plc:332mtetfjxaujy4udwwbom4d
+      reason: The person identifies as a Site Reliability Engineer (SRE), which is closely related to platform engineering. Their description indicates they are involved with cloud-native technologies, hinting at experience with platforms.
+      member: true
+    - account:
+        handle: rishab.cloud
+      member: true
+    - account:
+        handle: riteshsonawane.bsky.social
+        did: did:plc:2c6uyf6skyhuxswdfjjtr44y
+      reason: The individual describes their role as an SRE (Site Reliability Engineer), which is closely related to platform engineering, and they are likely involved in practices and technologies relevant to the community.
+      member: true
+    - account:
+        handle: rizaldy.club
+        did: did:plc:oeht2lhv6qumiusmtokfi4dk
+      reason: The person describes their role as SRE and DevOps, which are closely related to platform engineering. Therefore, they belong to the Platform Engineer community.
+      member: true
+    - account:
+        handle: robstr.dev
+      member: true
+    - account:
+        handle: rohan.foo
+        did: did:plc:6vwm7x27pzpsrbbrkwxgdqft
+      reason: The profile mentions working at DeepSourceHQ and being a maintainer at argoproj, which suggests involvement with devops and platforms. Given that Argo is a tool used for Kubernetes and CI/CD, this indicates a strong connection to practices central to platform engineering.
+      member: true
+    - account:
+        handle: rossipedia.com
+        did: did:plc:u4lonoubcujieqncvyjd6dsh
+      reason: The person describes their role as 'Frontend Platform' at Docker, which indicates they are involved in platform-related work, qualifying them as a member of the Platform Engineer community.
+      member: true
+    - account:
+        handle: ryan.belgrave.me
+        did: did:plc:2ochtszomondtenafhrpmhv3
+      reason: The individual emphasizes their focus on Cloud, Kubernetes, and CI/CD, all of which are central to platform engineering practices.
+      member: true
+    - account:
+        handle: saboya.pro
+        did: did:plc:obbf35lqdt74oikcy3dhkgcb
+      reason: The person describes their job role as Site Reliability Engineer (SRE), which falls under the domain of platform engineering as it involves ensuring reliable platform performance.
+      member: true
+    - account:
+        handle: sagikazarmark.bsky.social
+      member: true
+    - account:
+        handle: saifrajhi.bsky.social
+        did: did:plc:f5lyr6oilcvtvjpms2kcwtm5
+      reason: The individual describes their job title as a 'Senior Data Platform Engineer' and shows enthusiasm for Cloud and DevOps, which aligns with the responsibilities and technologies typical for platform engineers.
+      member: true
+    - account:
+        handle: saiyampathak.com
+      member: true
+    - account:
+        handle: salaboy.com
+        did: did:plc:m57j2ouwl4fptphskaxnsnyq
+      reason: The profile indicates involvement with technologies and roles relevant to platform engineering, specifically mentioning Kubernetes and open-source software engineering. Additionally, the mention of co-leading working groups related to Knative indicates active participation in platform development.
+      member: true
+    - account:
+        handle: salehparsa.bsky.social
+        did: did:plc:uxfx4osugbwiu4dgp5ikxz5k
+      reason: The individual is a Senior DevOps Engineer and mentions working with cloud technologies such as AWS and Terraform. The mention of Infrastructure as Code (IaC) suggests engagement with practices central to platform engineering, indicating their belonging to the Platform Engineer community.
+      member: true
+    - account:
+        handle: samiqs.bsky.social
+        did: did:plc:kc56oe4rptx7uxnmehcgp4hj
+      reason: The individual describes their job role as 'Platform Eng' which indicates they are part of the platform engineering community.
+      member: true
+    - account:
+        handle: sandipb.net
+        did: did:plc:kfbdmqoemcdb5cybio2alriq
+      reason: The individual describes themselves as a 'DevOps YAML engineer,' which indicates their work involves tasks closely related to platform engineering. YAML is commonly used in configuration management and deployment processes, reflecting involvement with infrastructure and automation practices.
+      member: true
+    - account:
+        handle: santana.dev
+      member: true
+    - account:
+        handle: sbueringer.bsky.social
+        did: did:plc:dpyoz7eubz5r26viiks6kruj
+      reason: The individual has experience with Kubernetes, which is a key technology used in platform engineering, indicating their involvement in building and managing platforms.
+      member: true
+    - account:
+        handle: schabell.org
+      member: true
+    - account:
+        handle: scott.dier.name
+        did: did:plc:2dmvsczytnagnxo45tqrkuqv
+      reason: The person identifies as an SRE (Site Reliability Engineer), which is closely related to platform engineering, and indicates involvement in related practices during their 'spare time', suggesting they engage with platform engineering concepts.
+      member: true
+    - account:
+        handle: seemasaharan.bsky.social
+      member: true
+    - account:
+        handle: seniordevops.dev
+        did: did:plc:fv43xckeospzgad4y6qsnvix
+      reason: The individual describes themselves as a DevOps engineer, which aligns with job roles central to platform engineering. They also mention experience with Kubernetes and Cloud, which are technologies used to build platforms, supporting their membership in the Platform Engineer community.
+      member: true
+    - account:
+        handle: sfu.bsky.social
+        did: did:plc:qg3u7acrwry3kv5fm66saqwn
+      reason: The profile describes the person as a Lead Platform Architect, engages with container technologies and Kubernetes, and has experience with DevOps tools and processes, which align with the practices central to platform engineering.
+      member: true
+    - account:
+        handle: shahid.dev
+        did: did:plc:r2klpeaelgeernjlnpmy2igr
+      reason: The person describes their job role as a Principal Platform Architect, which fits under the platform engineer community. Additionally, their title suggests they work on an internal developer platform and likely engages with platform engineering practices.
+      member: true
+    - account:
+        handle: shitposting.tubaterry.com
+        did: did:plc:jchqdkmvamenp6zivomu3aqz
+      reason: The profile mentions knowledge of Kubernetes, which is a technology used for building platforms, indicating involvement in platform engineering.
+      member: true
+    - account:
+        handle: shotatsuge.bsky.social
+        did: did:plc:ytyyy37tbf44qnajiuxezq7n
+      reason: The profile describes the person as a manager in an SRE organization, which fits the criteria of describing a job role relevant to platform engineering.
+      member: true
+    - account:
+        handle: shyukri.bsky.social
+        did: did:plc:b5g4zi3oa3rh2fskmzvrhome
+      reason: The profile includes 'SRE', which indicates their role in Site Reliability Engineering, and mentions 'Cloud' and 'ArgoProj', highlighting familiarity with technologies relevant to platform engineering.
+      member: true
+    - account:
+        handle: sidpalas.com
+      member: true
+    - account:
+        handle: simoneb.bsky.social
+        did: did:plc:ikl7sm7i2btj4mscrcuzpy6w
+      reason: The person works with Terraform, DevOps & Cloud, which are relevant technologies for building and managing platforms, suggesting their involvement in platform engineering.
+      member: true
+    - account:
+        handle: simonjulien.bsky.social
+        did: did:plc:pocrquajn3nrfxrkzwxido2u
+      reason: The description mentions 'Platform Engineering', which directly indicates involvement in the platform engineering community. Additionally, it refers to related fields such as DevSecOps and SRE, suggesting expertise in practices relevant to platform engineering.
+      member: true
+    - account:
+        handle: sirh.cc
+        did: did:plc:j3f2j4jowbduqzuhsk4docie
+      reason: The person describes their job role as 'Platform Engineering', which directly indicates membership in the Platform Engineer community. Additionally, the mention of 'Developer Experience' and 'full-stack' implies familiarity with building platforms, further supporting this classification.
+      member: true
+    - account:
+        handle: sivagandhan.bsky.social
+        did: did:plc:5xjcf4a3urnjl33bqqbyxn6o
+      reason: The person describes themselves as a 'Platform Engineer' and mentions 'Cloud' and 'Kubernetes', which are technologies central to platform engineering.
+      member: true
+    - account:
+        handle: sjancke.bsky.social
+        did: did:plc:pgbnpvvdgbimahrxjuxmj5tr
+      reason: The person describes themselves as an 'Engineering Manager Platform', which indicates a role related to platform engineering. They also mention AWS, a technology common in platform engineering.
+      member: true
+    - account:
+        handle: sjourdan.bsky.social
+        did: did:plc:mmfur5frsj6a3i3d2tg2vw3g
+      reason: The individual has authored a book titled 'Infrastructure-as-Code Cookbook', indicating a strong focus on Infrastructure as Code (IAC), which is a central practice in platform engineering. Their involvement in infrastructure-related work and the mention of Driftctl, which is a tool for managing infrastructure, suggests they are engaged in tasks relevant to platform engineering.
+      member: true
+    - account:
+        handle: sklarsa.bsky.social
+        did: did:plc:kaac3o4lmansqym24hft2kpg
+      reason: The person describes their job role as DevOps Engineer, which fits within the platform engineering community. This role often involves working with internal developer platforms and practices central to platform engineering.
+      member: true
+    - account:
+        handle: skpodila.bsky.social
+      member: true
+    - account:
+        handle: sleggefett.bsky.social
+        did: did:plc:f4qmokczotkta7p2kxk4sblq
+      reason: The profile mentions experience with Azure and Kubernetes, which are key technologies used for building platforms. The presence of these technologies indicates involvement in platform engineering practices.
+      member: true
+    - account:
+        handle: sleyva.bsky.social
+        did: did:plc:73bdcvtpcyyqaoibyh2gtu6s
+      reason: The profile identifies the individual as an SRE (Site Reliability Engineer), which is a role closely associated with platform engineering. Additionally, the reference to managing machines implies familiarity with operational and platform management practices.
+      member: true
+    - account:
+        handle: slyall.bsky.social
+        did: did:plc:zbomenm2ullhccevxdir2pwl
+      reason: The person works with Cloud Infrastructure and has experience with Kubernetes, which are technologies used to build platforms. This indicates they are likely involved in platform engineering practices.
+      member: true
+    - account:
+        handle: smig.tech
+        did: did:plc:3nwu6zthkhw6u2kxubyunpex
+      reason: The individual is currently an SRE (Site Reliability Engineer), which is closely related to platform engineering, and they are engaging in open source software engineering, indicating a familiarity with platform-level technologies and practices.
+      member: true
+    - account:
+        handle: sn3d.bsky.social
+        did: did:plc:ckrumufyokbridyls4bizmcq
+      reason: The profile mentions Kubernetes, cloud, and containers, which are key technologies used in building platforms. Additionally, being a consultant in a technology consulting firm implies involvement in platform-related work.
+      member: true
+    - account:
+        handle: snoopybanana.bsky.social
+        did: did:plc:aakfcfrcdwukzl2xs7ux4maj
+      reason: The person describes themselves as a platform engineer, which directly indicates their role in the community.
+      member: true
+    - account:
+        handle: social.hudson-viles.uk
+      member: true
+    - account:
+        handle: sogrady.org
+      member: true
+    - account:
+        handle: solidtubez.bsky.social
+      member: true
+    - account:
+        handle: sollus.social
+        did: did:plc:j6p5eeeelc26vhpbjrfthxj3
+      reason: The individual describes their profession as DevOps and specifies working with Terraform and AWS, which are relevant technologies used in platform engineering, supporting infrastructure as code and cloud-based platforms.
+      member: true
+    - account:
+        handle: soltysh.bsky.social
+      member: true
+    - account:
+        handle: soniacuff.com
+      member: true
+    - account:
+        handle: sourishkrout.com
+      member: true
+    - account:
+        handle: sparkythehuman.bsky.social
+        did: did:plc:7vxzachjo2ta5wrfta7lq6n3
+      reason: The person describes their role as SRE (Site Reliability Engineer), which is closely related to platform engineering. They are likely involved in practices central to platform engineering, making them a member of the Platform Engineer community.
+      member: true
+    - account:
+        handle: squillace.bsky.social
+      member: true
+    - account:
+        handle: standalonesa.bsky.social
+        did: did:plc:go7mrm6yyu236asurpbmpobb
+      reason: The person describes their job role as SRE (Site Reliability Engineer), which is closely related to platform engineering. SREs typically work on systems that ensure reliability, scalability, and performance, often overlapping with platform engineering roles.
+      member: true
+    - account:
+        handle: starefossen.bsky.social
+      member: true
+    - account:
+        handle: stefanlasiewski.bsky.social
+        did: did:plc:pmtg3lpcjeawfvqvd7rwnil3
+      reason: The person describes themselves as a 'Kubernetes/Container/Linux system engineer', which indicates they work with technologies commonly associated with platform engineering. The mention of Kubernetes and containerization directly relates to practices in the platform engineering community.
+      member: true
+    - account:
+        handle: stefanprodan.com
+      member: true
+    - account:
+        handle: stephendryden.co.uk
+        did: did:plc:w42rvsqyhoqvpktheihbxkl6
+      reason: The individual explicitly describes themselves as a 'Platform Engineer', which directly indicates their role in platform engineering.
+      member: true
+    - account:
+        handle: steve.mt
+        did: did:plc:24k4onz6q37jmoesi2e3nutb
+      reason: The person describes their job role as SRE (Site Reliability Engineer), which is closely related to platform engineering and often involves working on internal platforms as well as using technologies and practices relevant to the platform engineering community.
+      member: true
+    - account:
+        handle: stevefenton.co.uk
+        did: did:plc:aqrgi357dwvk42ubrggk73et
+      reason: The profile mentions 'PlatformEngineering' as a key aspect, indicating involvement with practices central to platform engineering. Additionally, the mention of 'Continuous Delivery' and 'DevOps' suggests familiarity with methodologies relevant to platform engineering.
+      member: true
+    - account:
+        handle: strongjz.bsky.social
+      member: true
+    - account:
+        handle: sttts.social
+        did: did:plc:w6auukarmalcgicsoz73jmkw
+      reason: The individual mentions Kubernetes, which is a key technology in platform engineering. Their experience at Upbound suggests involvement in building and managing platforms, further supporting their membership in the Platform Engineer community.
+      member: true
+    - account:
+        handle: stu.bsky.social
+      member: true
+    - account:
+        handle: sublimi.no
+      member: true
+    - account:
+        handle: sudermanjr.bsky.social
+      member: true
+    - account:
+        handle: sugaroverflow.com
+      member: true
+    - account:
+        handle: sykesjs.bsky.social
+        did: did:plc:hmmy2s5b3wmo7go4ict65nya
+      reason: The person describes their role as involved in Platform Engineering/DevOps, which aligns with community membership criteria.
+      member: true
+    - account:
+        handle: t-sc.eu
+      member: true
+    - account:
+        handle: t.heckman.io
+        did: did:plc:wxikukvtjcapoftvbbsyhlia
+      reason: The individual describes themselves as a Site Reliability Engineer, which falls under the platform engineering community. Additionally, their focus on resiliency and reliability is central to platform engineering practices.
+      member: true
+    - account:
+        handle: tabdulradi.bsky.social
+        did: did:plc:upekm25ek2zhkk6eak3bh7vn
+      reason: The profile indicates that the person works in Data and ML Platforms, which aligns with the platform engineering focus. Additionally, they have experience with relevant companies and technologies, suggesting familiarity with practices and tools essential to platform engineering.
+      member: true
+    - account:
+        handle: takuan-osho.bsky.social
+        did: did:plc:briovs72alc5e72mnuzqugn3
+      reason: The profile describes the person as a DevOps Engineer and mentions skills in Kubernetes and CI/CD, which are central to platform engineering.
+      member: true
+    - account:
+        handle: tanneroakes.bsky.social
+        did: did:plc:izst5hyal7l2hf34dbxeircl
+      reason: The person describes their role as a 'platforms engineer,' which directly aligns with the criteria for membership in the Platform Engineer community.
+      member: true
+    - account:
+        handle: tcervi.bsky.social
+        did: did:plc:bpgcx7apy57fi7mzmm4gvdiy
+      reason: The profile mentions expertise with Kubernetes and Containers, which are key technologies used in platform engineering. Although the role is described as a Tech Lead and Software Engineering Coordinator, the presence of relevant technologies suggests they are likely involved in platform engineering activities.
+      member: true
+    - account:
+        handle: technosophos.bsky.social
+      member: true
+    - account:
+        handle: terra.gay
+        did: did:plc:mcd7xm7sahluxcijns3u4a45
+      reason: The profile clearly states that the person is a 'Staff Platform Engineer', which directly aligns with the job role criteria for the Platform Engineer community.
+      member: true
+    - account:
+        handle: terrytangyuan.xyz
+      member: true
+    - account:
+        handle: thajeztah.bsky.social
+        did: did:plc:46s7cwwxecnbfzxc7mv5kjez
+      reason: The individual identifies as a Software Engineer at Docker and maintains OCI runtime specs, which are key components in developing and managing platform technologies focused on containers. This aligns with the platform engineering community due to their involvement with containerization technology.
+      member: true
+    - account:
+        handle: thatinfraguy.bsky.social
+        did: did:plc:n2bqwkbgqdhiw6d5ui2xe3ew
+      reason: The person describes their role as an SRE/Cloud Engineer, which aligns with roles involved in platform engineering.
+      member: true
+    - account:
+        handle: thefishing.dev
+        did: did:plc:hdjaz6wwmfybyudwkx5muddf
+      reason: The profile describes the person as an SRE (Site Reliability Engineer), which aligns with roles central to the platform engineering community. Although their profile includes personal interests, their job title is crucial for classification.
+      member: true
+    - account:
+        handle: thegeeknarrator.bsky.social
+        did: did:plc:ncgc3i2zp7chgjixknbinpg4
+      reason: The person is described as a Staff Platform Engineer at Personio, which directly indicates their role in the platform engineering community.
+      member: true
+    - account:
+        handle: thenikhita.bsky.social
+        did: did:plc:7ey6vb2nhbdkfj7qwaxbtmfz
+      reason: The individual holds a position as a Principal Engineer and has a significant involvement in Kubernetes and open source software, which indicates strong ties to platform engineering practices and technologies like Kubernetes. Their roles at CNCF and KubeCon further support their belonging to the Platform Engineer community.
+      member: true
+    - account:
+        handle: theonlynabarun.bsky.social
+      member: true
+    - account:
+        handle: thock.in
+      member: true
+    - account:
+        handle: thomas.lockney.net
+        did: did:plc:lkfrzyvdvlcifsj4rxbbzj7v
+      reason: The individual describes themselves as a 'Platform-oriented Product Engineering leader', which indicates a focus on platform engineering practices. Their role likely involves working on an internal developer platform, aligning with the community criteria.
+      member: true
+    - account:
+        handle: thomasvitale.com
+      member: true
+    - account:
+        handle: thulasirajkomminar.com
+        did: did:plc:paf2gpf65tebbsxtlq4dweeb
+      reason: The individual describes themselves as a Data Platform Engineer, which aligns with the platform engineering community. Additionally, they mention working with Terraform, which is a technology used for infrastructure as code—central to platform engineering practices.
+      member: true
+    - account:
+        handle: tiffanyfay.dev
+      member: true
+    - account:
+        handle: timothysc.bsky.social
+        did: did:plc:r3exioc56favmh3a72caotxe
+      reason: The profile mentions experience as a DE/PE (Developer/Platform Engineer) and includes references to Kubernetes ('k8s'), indicating familiarity with platform engineering technologies. This aligns with the practices and technologies used in the platform engineer community.
+      member: true
+    - account:
+        handle: tnorlin.se
+      member: true
+    - account:
+        handle: todaywasawesome.bsky.social
+      member: true
+    - account:
+        handle: topsideboss2.bsky.social
+        did: did:plc:lbmqkylcsfbmdy2mlgqdnmfx
+      reason: The person describes themselves as a platform engineer and works with relevant technologies in cloud and infrastructure, making them a member of the Platform Engineer community.
+      member: true
+    - account:
+        handle: tperelle.bsky.social
+        did: did:plc:msdrdmhjt2lkpzq77t2ss55b
+      reason: The individual describes themselves as a consultant in cloud and platform engineering, indicating involvement in platform-related practices.
+      member: true
+    - account:
+        handle: troy0820.dev
+      member: true
+    - account:
+        handle: tsao.gattaca.es
+        did: did:plc:nyuwfinwbmelxcohqecwpdnq
+      reason: The individual describes themselves as an SRE (Site Reliability Engineer) at Telefonica, which aligns with the job roles associated with platform engineering.
+      member: true
+    - account:
+        handle: tw0stra.ws
+        did: did:plc:ggwuxgxjxcdiwgiqkfmzbblk
+      reason: The person identifies as SRE, which falls under one of the specified job roles relevant to platform engineering. Their profile suggests involvement in site reliability and security engineering, which often overlaps with platform engineering practices.
+      member: true
+    - account:
+        handle: tw3rp.net
+        did: did:plc:kisetnqct5lgxkpqwcw5bkd2
+      reason: The person describes their job role as SRE, which is a recognized role within the platform engineering community.
+      member: true
+    - account:
+        handle: tylerauerbeck.bsky.social
+        did: did:plc:5quthkextbc47stwfeb7vgzn
+      reason: The person describes themselves as 'Smashing Kubes', which implies they work with Kubernetes, a technology essential for building platforms. Their previous association with Red Hat suggests experience with cloud and developer platforms, contributing to their qualification as a member of the Platform Engineer community.
+      member: true
+    - account:
+        handle: tysmith.me
+        did: did:plc:m7obyaael2hjcijeuknvtpdl
+      reason: The person describes their role as a Principal Engineer in Platform Engineering at Uber, which directly aligns with the job role criteria for the Platform Engineer community.
+      member: true
+    - account:
+        handle: unixninja92.com
+        did: did:plc:d5meukggjaf2y6r6sv3dptpi
+      reason: The individual describes their job role as a Site Reliability Engineer (SRE), which falls under the platform engineering community. SREs typically work on internal developer platforms and are involved in practices like CI/CD and infrastructure management.
+      member: true
+    - account:
+        handle: urvil.bsky.social
+        did: did:plc:wkzmszfyj7gpxlc5kr6ris3g
+      reason: The person describes their job role as SRE (Site Reliability Engineer), which is closely related to platform engineering. SREs often work with platforms and technologies used in that space.
+      member: true
+    - account:
+        handle: userops.bsky.social
+        did: did:plc:em52zneyu3oedmoxjlr4xz6j
+      reason: 'The person describes themselves with the hashtag #SRE and #Platform Engineering, indicating that they are involved in platform engineering practices. Their focus on building frameworks aligns with the responsibilities typically associated with platform engineers.'
+      member: true
+    - account:
+        handle: usrbinkat.io
+        did: did:plc:5sdiawbhokcnncqt55tn3co3
+      reason: The profile describes the individual as a 'MultiCloud Platform Engineer', which indicates a role aligned with platform engineering.
+      member: true
+    - account:
+        handle: v1k0d3n.bsky.social
+        did: did:plc:w3of33mjvdppdbdbn3re6m7x
+      reason: The individual has experience working with Kubernetes and OpenShift, which are key technologies used in platform engineering. Their role and contributions indicate a strong involvement in building and maintaining platforms, which aligns with the criteria for the Platform Engineer community.
+      member: true
+    - account:
+        handle: vaanam.bsky.social
+        did: did:plc:p5f4lepchwjfv5cmolm7lsjm
+      reason: The person describes their role as Sr SRE Manager, which falls under the category of platform engineering roles. Additionally, their focus on Infrastructure and Reliability aligns with practices central to platform engineering.
+      member: true
+    - account:
+        handle: vbehar.bsky.social
+      member: true
+    - account:
+        handle: venkatamutyala.com
+        did: did:plc:hjxgertt5ugbrhawpu6elt2m
+      reason: The profile explicitly states the role as 'platform engineer' and includes 'DevOps' as well as 'kubernetes', which is a technology commonly associated with platform engineering.
+      member: true
+    - account:
+        handle: vga.bsky.social
+        did: did:plc:cv4igugbt3kahodidjvueqii
+      reason: The individual's profile contains references to being involved in platform engineering practices, using technologies relevant to building platforms, and describing relevant job roles. This aligns with the criteria indicating they belong to the Platform Engineer community.
+      member: true
+    - account:
+        handle: vicnastea.io
+      member: true
+    - account:
+        handle: vigueras.dev
+        did: did:plc:hyfzloe2p4rmirmvvf56qgjg
+      reason: The individual mentions working with Kubernetes, which is a technology used to build platforms, indicating their relevance to the Platform Engineer community.
+      member: true
+    - account:
+        handle: vinaybommana.bsky.social
+        did: did:plc:ggxxadppsed6n7ttcyukuzje
+      reason: The individual describes their job role as an SRE, which falls under the category of platform engineering.
+      member: true
+    - account:
+        handle: vinyfialho.bsky.social
+        did: did:plc:xk3jxjcbptoothlfituj2aef
+      reason: The individual describes their job as a DevOps Engineer/SRE, which is aligned with platform engineering roles. They also mention working with Kubernetes (K8S) and Terraform, technologies commonly used in building internal developer platforms.
+      member: true
+    - account:
+        handle: virtualhobbit.bsky.social
+        did: did:plc:4grgtf7vesvhrqacr7wjjbui
+      reason: The profile includes relevant technologies such as Kubernetes, GitOps, and tools like Ansible and Terraform, which are commonly used in platform engineering. The mention of DevOps also aligns with the practices central to platform engineering.
+      member: true
+    - account:
+        handle: virtualized6ix.bsky.social
+      member: true
+    - account:
+        handle: vladionescu.me
+      member: true
+    - account:
+        handle: vrao.bsky.social
+        did: did:plc:7wso6g5bjtj6k3veft4mnt6d
+      reason: The profile describes the person as an 'enxeñeiro de plataforma', which translates to platform engineer, indicating they are part of the platform engineering community.
+      member: true
+    - account:
+        handle: vrapolinario.bsky.social
+        did: did:plc:6r3ppzc3f3ha27umtbplwdgx
+      reason: The profile mentions expertise in Docker and Kubernetes (K8s), which are key technologies used in platform engineering. The person also holds a role as a Principal Cloud Advocate, indicating a focus on cloud and platform-related technologies.
+      member: true
+    - account:
+        handle: vtimd.bsky.social
+      member: true
+    - account:
+        handle: waltervides.bsky.social
+        did: did:plc:cpphqjhs53lqu64qvbw6vzqb
+      reason: The person describes their job role as SRE (Site Reliability Engineer), which is related to platform engineering and indicates involvement with platform-related responsibilities.
+      member: true
+    - account:
+        handle: wdbetts.bsky.social
+        did: did:plc:w7jovi4xgljgcee3ay6wqyru
+      reason: The person is an Eng Leader in Developer Platform at Twilio, which indicates they work on an internal developer platform, fulfilling one of the key criteria for being part of the Platform Engineer community.
+      member: true
+    - account:
+        handle: wiggitywhitney.bsky.social
+      member: true
+    - account:
+        handle: willies.info
+        did: did:plc:kfo5lyv2x3gntondysashhd2
+      reason: The person works with Kubernetes, which is a technology used to build platforms, indicating their involvement in platform engineering.
+      member: true
+    - account:
+        handle: willvelida.com
+        did: did:plc:73txti6k6uinmgiwnkypkfco
+      reason: The individual is described as a Lead Software Engineer with a passion for building sustainable developer platforms, indicating their involvement in platform engineering. Additionally, their experience as a Microsoft Azure MVP suggests familiarity with cloud technologies, which is essential in platform engineering.
+      member: true
+    - account:
+        handle: wiredferret.bsky.social
+      member: true
+    - account:
+        handle: xander.wtf
+      member: true
+    - account:
+        handle: xavidop.bsky.social
+      member: true
+    - account:
+        handle: xbilinmiyor.bsky.social
+        did: did:plc:jq4wv7v7m7faocupfsonek4x
+      reason: The person explicitly describes their job role as a platform engineer, which directly aligns with the criteria for being part of the Platform Engineer community.
+      member: true
+    - account:
+        handle: xeiaso.net
+      member: true
+    - account:
+        handle: xmudrii.bsky.social
+      member: true
+    - account:
+        handle: yashirook.bsky.social
+        did: did:plc:v2zs4hhkkfmiwrquzzu3kvs6
+      reason: The individual describes their role as a Site Reliability Engineer (SRE), which is closely related to platform engineering and focuses on the reliability and scalability of services, often involving platform engineering practices.
+      member: true
+    - account:
+        handle: yassan168.bsky.social
+        did: did:plc:kdehzxyyxuz3hb5tq5z22myl
+      reason: The profile describes the individual as an Infra Engineer focusing on Data/Container Platform, which aligns with platform engineering roles. Additionally, their involvement in community organizations related to cloud-native technologies suggests a strong connection to platform engineering practices.
+      member: true
+    - account:
+        handle: yoavweiss.bsky.social
+        did: did:plc:osqjxz5bk3jeavk4tvh3awv5
+      reason: The individual mentions working on a web platform at Shopify, which indicates involvement in platform engineering. The focus on making the web faster aligns with practices that could involve performance optimization relevant to developer platforms.
+      member: true
+    - account:
+        handle: youngnick.bsky.social
+      member: true
+    - account:
+        handle: yuryrodrigues.bsky.social
+        did: did:plc:yladlmhfrmnjly6fawqmrhbq
+      reason: The person describes their role with titles related to platform engineering (DevOps, SRE), which indicates a strong connection to the field.
+      member: true
+    - account:
+        handle: zachdaniel.dev
+        did: did:plc:asqrltlnmzecxz42wklq6yy2
+      reason: The individual describes their role explicitly as a 'Principal Platform Engineer', indicating their involvement in platform engineering.
+      member: true
+    - account:
+        handle: zebpalmer.com
+        did: did:plc:ibjy4covhvj6mkmkno3aj6em
+      reason: The individual describes their role as Site Reliability Engineer, which falls within the platform engineering community. Their job likely involves working with internal developer platforms and relevant technologies, aligning them with platform engineering practices.
+      member: true
+    - account:
+        handle: zoispag.bsky.social
+        did: did:plc:s36bz64qy4m25mhn3utwc26d
+      reason: The person describes their job role as a Principal DevOps Engineer and mentions working with Kubernetes and Docker, which are technologies used to build platforms. This aligns with the criteria for belonging to the Platform Engineer community.
+      member: true
