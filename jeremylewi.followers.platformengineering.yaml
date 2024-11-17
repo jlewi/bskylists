@@ -1439,3 +1439,493 @@ items:
         did: did:plc:wbuezhu46trfmg5hduqphn3r
       reason: The description does not provide any information related to platform engineering roles, technologies, or practices.
       member: false
+    - account:
+        handle: ender-x.bsky.social
+        did: did:plc:zykbzcrxzjda7fpsqxpqxewx
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: simoneb.bsky.social
+        did: did:plc:ikl7sm7i2btj4mscrcuzpy6w
+      reason: The individual mentions working with Terraform, DevOps, and Cloud technologies, which are relevant to platform engineering. Additionally, the term 'infra nerd' suggests involvement in infrastructure, which aligns with platform engineering practices.
+      member: true
+    - account:
+        handle: graimatter.bsky.social
+        did: did:plc:xxirjwdf6lkwjwjdwf5xztxp
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: openrisk.bsky.social
+        did: did:plc:b25yty2pan3t46bvuhk3f6ea
+      reason: The profile does not mention any connection to platform engineering, internal developer platforms, relevant job titles, or technologies/practices commonly associated with platform engineering.
+      member: false
+    - account:
+        handle: jeroenvdmbrugge.bsky.social
+        did: did:plc:bfg2pbuwbz4m7gttdmfegp54
+      reason: The profile does not mention working on an internal developer platform, nor does it describe any job roles or practices associated with platform engineering. It focuses on chemical engineering, data science, and machine learning.
+      member: false
+    - account:
+        handle: slomo5.bsky.social
+        did: did:plc:pbulph2di46iuj27xzpfkqfd
+      reason: The description does not mention any relevant job roles, technologies, or practices associated with platform engineering. The individual refers to themselves as a 'system integrator' but does not indicate working on an internal developer platform or using specific platform engineering technologies or practices.
+      member: false
+    - account:
+        handle: jimbowery.bsky.social
+        did: did:plc:lbugzbk4l2kbczco4gqrpxyr
+      reason: The profile does not specify a current role or responsibilities related to platform engineering, such as working on an internal developer platform or using relevant technologies. It also lacks any mention of practices central to platform engineering.
+      member: false
+    - account:
+        handle: end--user.bsky.social
+        did: did:plc:schrknfi6oe3undvmx57mj6j
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: sigmundfried.bsky.social
+        did: did:plc:3ruwsflsz6m6cf2tq32w6ss4
+      reason: The profile describes the person as a Senior Systems Engineer/Devops Engineer, but it does not provide any specific information about working on an internal developer platform, technologies used to build platforms, or practices central to platform engineering.
+      member: false
+    - account:
+        handle: thatangrydude.bsky.social
+        did: did:plc:bh5nvxcuy7nf356e2luizpxx
+      reason: The profile does not mention any role related to platform engineering or any relevant technologies and practices associated with it. There is no indication of working on an internal developer platform.
+      member: false
+    - account:
+        handle: kandrejczuk.bsky.social
+        did: did:plc:ufwm2axrnjhaf6hqktniw466
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: pharaohlxvi.bsky.social
+        did: did:plc:ktdkmxrljwykjepxfwkm5ya6
+      reason: The profile does not indicate any involvement with platform engineering roles, technologies, or practices.
+      member: false
+    - account:
+        handle: dustyschmidt.bsky.social
+        did: did:plc:lp5v3yctgukey7osjdfuso6j
+      reason: The profile describes a person with interests in sports and data visualization, and mentions they are diving into programming. There is no indication of working on an internal developer platform, or of relevant job roles and technologies associated with platform engineering.
+      member: false
+    - account:
+        handle: brantleyvose.bsky.social
+        did: did:plc:fan24tii25tiobnh55hbrwtj
+      reason: The individual does not mention working on an internal developer platform, having a job role related to platform engineering, or using relevant technologies and practices. Their background as a PhD student in math and interest in music does not indicate involvement in platform engineering.
+      member: false
+    - account:
+        handle: walidev.bsky.social
+        did: did:plc:lqx5b3m25iif4zv5j4dwgy5v
+      reason: The profile focuses on AI, Bitcoin, Crypto, and Web3 without mentioning any specific role or technologies related to platform engineering or internal developer platforms.
+      member: false
+    - account:
+        handle: dsyzling.bsky.social
+        did: did:plc:cxj3mmrkhunglwgg3b2rspqr
+      reason: The profile does not mention any specific roles related to platform engineering or technologies associated with building platforms. It only mentions programming languages.
+      member: false
+    - account:
+        handle: eventjorhom.bsky.social
+        did: did:plc:7cgpdfqgkgjbgjs5xtko4to7
+      reason: The profile does not mention any role related to platform engineering nor any relevant technologies, practices, or internal developer platforms.
+      member: false
+    - account:
+        handle: jaime0x819a.bsky.social
+        did: did:plc:kab35p3opeywigwr2dkgl4nr
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: thisiswar.bsky.social
+        did: did:plc:7scic64bbbekxbrtziudyjap
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: antennaantics.bsky.social
+        did: did:plc:2qrzrkc5cwpyngpd23fdvt55
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: mattiasgees.bsky.social
+        did: did:plc:3xpqabrz3bkydxv65gyl6y6a
+      reason: The person mentions expertise in Kubernetes, which is a critical technology used in platform engineering, and their role suggests involvement in engineering practices related to technology platforms.
+      member: true
+    - account:
+        handle: adrianaulbach.bsky.social
+        did: did:plc:j2azyc6n7e2p47nh73cbeskk
+      reason: The profile describes the person as a software engineer focused on IT security, but it does not mention any work related to internal developer platforms, relevant roles (like platform engineer, SRE), or specific platform engineering technologies/practices.
+      member: false
+    - account:
+        handle: spleck.bsky.social
+        did: did:plc:cyf3vvimvhwiiulwe2eavtb6
+      reason: The profile does not mention any specific job role related to platform engineering or relevant technologies and practices associated with the field.
+      member: false
+    - account:
+        handle: maxwelllangford.bsky.social
+        did: did:plc:mzzgbaeefnq4dxsg35wftfva
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: fplam.bsky.social
+        did: did:plc:de3actwb3hsbglfia7w4rhwt
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: preethans.bsky.social
+        did: did:plc:4fow2vnramu6efmdk77ymwvt
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: alanfeder.bsky.social
+        did: did:plc:63tvwh7475p5s5aijmnyntqg
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: barzin.sanctus.ca
+        did: did:plc:jcctejuetbwwy3pwt7hiy7yo
+      reason: The profile does not indicate any association with platform engineering, nor does it mention working on internal developer platforms, relevant job roles, or technologies central to platform engineering.
+      member: false
+    - account:
+        handle: andection.bsky.social
+        did: did:plc:ai3s4vkutncdlg4zn4uvqtcu
+      reason: The profile describes a Senior Staff Software Engineer working on ML infrastructure and high-load systems, but does not mention any specific involvement with platform engineering practices, roles, or technologies indicative of a platform engineer.
+      member: false
+    - account:
+        handle: glima.bsky.social
+        did: did:plc:jcnxaiahttmx2l3v4xnyp7pl
+      reason: The profile does not mention any involvement in platform engineering roles, technologies, or practices. Instead, it focuses on research topics related to AI ethics and HCI.
+      member: false
+    - account:
+        handle: sinemsaka.bsky.social
+        did: did:plc:xes43kan2eocvdy7kmhmfnj5
+      reason: The individual is a Scientist and Group Leader at EMBL Heidelberg, which does not align with the platform engineer community criteria related to job role or technology used.
+      member: false
+    - account:
+        handle: friesenegger.xyz
+        did: did:plc:z5cdbmdrqf4hqztgg2nutwba
+      reason: The profile does not mention any role related to platform engineering, technologies used to build platforms, or practices central to platform engineering. It only specifies that the person is a student in Pharmaceutical Sciences.
+      member: false
+    - account:
+        handle: michaeljonsson.bsky.social
+        did: did:plc:uile4fhdffc74ut7f3auriab
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: hardcorestrategy.bsky.social
+        did: did:plc:ddgwl3mzvve5kmy4cbvipt4r
+      reason: The description does not mention any specific job role related to platform engineering, nor does it refer to any technologies or practices central to platform engineering.
+      member: false
+    - account:
+        handle: subhankar-halder.bsky.social
+        did: did:plc:glvkib3mxoumj4c63anelvro
+      reason: The description does not indicate that the individual works on an internal developer platform, nor do they specify a role directly related to platform engineering or mention relevant technologies or practices.
+      member: false
+    - account:
+        handle: fredericjacobs.com
+        did: did:plc:oxwmqopgbm3driwzues7odpz
+      reason: The profile does not mention any work related to internal developer platforms, specific job titles associated with platform engineering, relevant technologies used to build platforms, or practices central to platform engineering.
+      member: false
+    - account:
+        handle: bgoleno.bsky.social
+        did: did:plc:fopsm3epv5fzimvywae4fgnc
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: raquelrguima.bsky.social
+        did: did:plc:wsqlif5dzma4hv5pkg5bjjbw
+      reason: The individual does not mention working on an internal developer platform, does not describe their role as a platform engineer or related positions, and does not reference relevant technologies or practices related to platform engineering.
+      member: false
+    - account:
+        handle: narasimha.bsky.social
+        did: did:plc:fttinrplzkp2zoq3astk2rdr
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: sixnumbers.bsky.social
+        did: did:plc:v2urxnzehg2w77fxx7dq4ziy
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: stevecain.bsky.social
+        did: did:plc:ehkabinnex6jdqznr74hxnpv
+      reason: The profile describes someone as a Senior Full-Stack Developer and mentions interests in music and video production, but does not mention working on an internal developer platform, utilizing specific platform engineering technologies, or describing practices central to platform engineering.
+      member: false
+    - account:
+        handle: arnicas.bsky.social
+        did: did:plc:ayoll3ww3v3zgh6m6damfaaf
+      reason: The profile focuses on creative ML/AI and data science without mentioning any aspects related to platform engineering, infrastructure, or specific platform engineering practices.
+      member: false
+    - account:
+        handle: sheared.bsky.social
+        did: did:plc:ltzx5i7vrlpp5oumbcishso4
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: zen-turtle.bsky.social
+        did: did:plc:uxwagijawh3xrmgks6rwo4gl
+      reason: The profile does not describe any job role related to platform engineering, nor does it mention any relevant technologies or practices associated with the platform engineering community.
+      member: false
+    - account:
+        handle: austegard.com
+        did: did:plc:r2whjvupgfw55mllpksnombn
+      reason: The profile description does not provide any information about the person's current role, field of expertise, or technologies related to platform engineering.
+      member: false
+    - account:
+        handle: cenchreae.bsky.social
+        did: did:plc:lb2tq6wnfocqekumcnunyzvj
+      reason: The profile does not mention any job role, technologies, or practices related to platform engineering. It focuses on personal interests such as family, sports, and hobbies.
+      member: false
+    - account:
+        handle: mlaff.bsky.social
+        did: did:plc:77ukklhumpvfq6vran7cnjve
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: sergiok.bsky.social
+        did: did:plc:7l4zm6gtibu5crt7ziakwfdy
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: spokido.bsky.social
+        did: did:plc:pe6srm3ec7x7idiet3fksrgj
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: paleodm.bsky.social
+        did: did:plc:xjboep5zpxe7c5zzrdgehq32
+      reason: The profile describes a Senior Research Scientist with a focus on paleontology and educational equity, with no mention of platform engineering, related technologies, or relevant practices.
+      member: false
+    - account:
+        handle: lfengstone.bsky.social
+        did: did:plc:2nllnasgp4apsszthx4bb3rw
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: ricopic.one
+        did: did:plc:ilig52an5tro26dwxpsof3rb
+      reason: The description does not mention any role related to platform engineering or relevant technologies and practices associated with it.
+      member: false
+    - account:
+        handle: jukru.bsky.social
+        did: did:plc:fbajvf2zyltjhk5i6ac5tm7o
+      reason: The profile does not mention any job role related to platform engineering nor does it reference working on an internal developer platform, relevant technologies, or practices central to platform engineering.
+      member: false
+    - account:
+        handle: kerithethorn.bsky.social
+        did: did:plc:7mt4lcd4wzmyux5g3xhhjpsb
+      reason: The profile does not mention any job role related to platform engineering or any relevant technologies or practices. It focuses on personal interests and does not indicate a professional background in platform engineering.
+      member: false
+    - account:
+        handle: kbwats.bsky.social
+        did: did:plc:i3p7fissjhc3r57bwu4cm7wo
+      reason: The individual does not describe any job role or activities related to platform engineering, nor do they mention working on an internal developer platform or related technologies.
+      member: false
+    - account:
+        handle: daughertyn.bsky.social
+        did: did:plc:fwxefhhcj6kg44uc44whgm3a
+      reason: The profile does not mention any experience or job role related to platform engineering or relevant technologies. It describes the person as a Software Engineer (SWE) and includes unrelated interests like gaming and collecting.
+      member: false
+    - account:
+        handle: suyoghc.bsky.social
+        did: did:plc:izwtivregs3ubfgnebcvqf2q
+      reason: The profile describes a lecturer and researcher in psychology, without any mention of platform engineering, related job roles, or relevant technologies and practices.
+      member: false
+    - account:
+        handle: varunbhat.bsky.social
+        did: did:plc:qhdrqs2rllzzitbdfjcgmofb
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: cmaddis.bsky.social
+        did: did:plc:4x3qki42pxmtpgladyibblkr
+      reason: The individual does not describe a job role related to platform engineering, nor do they mention working with technologies or practices central to the field. They are focused on academia and machine learning, which falls outside the platform engineering community.
+      member: false
+    - account:
+        handle: champagneblue.bsky.social
+        did: did:plc:jrvon4j3jynjruwoajxo57z7
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: neharbour.bsky.social
+        did: did:plc:e7yqaygs7g5spo43ym52ubs5
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: subaud.io
+        did: did:plc:c4dx7hip2yejxskz2lupelqy
+      reason: The profile does not provide any information about working on an internal developer platform, specific job roles related to platform engineering, technologies used for building platforms, or practices central to platform engineering.
+      member: false
+    - account:
+        handle: baoflex.bsky.social
+        did: did:plc:ignrreqlwrptnhl3t5yglmvc
+      reason: The person's job role is related to medical pathology, and there is no mention of platform engineering, technology, or practices relevant to the platform engineering community.
+      member: false
+    - account:
+        handle: mark-r-vickers.bsky.social
+        did: did:plc:abof6o7tajvec52phc6frheb
+      reason: The profile does not mention any relevant job role related to platform engineering nor does it discuss technologies or practices commonly associated with the platform engineering community.
+      member: false
+    - account:
+        handle: rachtay.bsky.social
+        did: did:plc:ntz4zsmxdfkfgicz4s4dhxfp
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: johnjac.bsky.social
+        did: did:plc:wcqdt44ar7lzmwvstfz6vrgh
+      reason: The profile does not mention any role related to platform engineering or any technologies or practices central to that field.
+      member: false
+    - account:
+        handle: rhnfzl.bsky.social
+        did: did:plc:i2yvqvif66mvyjl6pwihm4kv
+      reason: The profile describes a Machine Learning Engineer with a focus on running and problem-solving but does not mention any specific platform engineering roles, practices, or technologies associated with internal developer platforms or DevOps.
+      member: false
+    - account:
+        handle: rsphotoguy.bsky.social
+        did: did:plc:akqn42hjs6gfqdr5wbv22tri
+      reason: The profile does not provide any information related to platform engineering roles, practices, or technologies.
+      member: false
+    - account:
+        handle: tubafunk.bsky.social
+        did: did:plc:st5ensq3l7ssbtx3z6pz6j5e
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: gputoast.bsky.social
+        did: did:plc:ggkxogc3yewadoftm5cyuta2
+      reason: The profile does not provide any information indicating involvement in platform engineering or related technologies.
+      member: false
+    - account:
+        handle: garbageanalysis.bsky.social
+        did: did:plc:txuvk25akqbuq6nsniycdo57
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: julianposada.bsky.social
+        did: did:plc:rn3swc4m6huihchzhlxg3oml
+      reason: The individual is an Assistant Professor focused on research related to data and platforms, but there is no mention of working on an internal developer platform, specific job roles like platform engineer, or technologies related to platform engineering practices.
+      member: false
+    - account:
+        handle: miguelalonsojr.bsky.social
+        did: did:plc:s7wpdldvjaljs25cotnkrchb
+      reason: The profile does not indicate any involvement with internal developer platforms or specific platform engineering roles or technologies related to platform engineering. The focus is on AI and ML, not frameworks or practices central to platform engineering.
+      member: false
+    - account:
+        handle: mtsofonea.bsky.social
+        did: did:plc:hganudmd7iztt6dpr7gedtz6
+      reason: The individual identifies as an epidemiologist and focuses on research related to respiratory viruses and pandemic preparedness, which does not align with platform engineering roles or practices.
+      member: false
+    - account:
+        handle: lucvandonkersgoed.com
+        did: did:plc:cpixmtoqs6opsfmfmbrokk5y
+      reason: The profile mentions the person's role as Principal Engineer at PostNL and indicates expertise in AWS Serverless technology, but it does not explicitly describe involvement in internal developer platforms or project methodologies related to platform engineering.
+      member: false
+    - account:
+        handle: fredmas.bsky.social
+        did: did:plc:sekwqksls3f2c6pqf6i4y73n
+      reason: The profile does not mention any job roles, technologies, or practices related to platform engineering and instead focuses on earthquake and volcanology interests.
+      member: false
+    - account:
+        handle: snickels.io
+        did: did:plc:kvlgppp5g4lst6m3fnswnxsm
+      reason: The profile describes the person as a Data Scientist and does not mention any relevant roles, technologies, or practices associated with platform engineering.
+      member: false
+    - account:
+        handle: lechner.work
+        did: did:plc:pa5r35mo53w62ad25yxea4ll
+      reason: The profile does not indicate any specific role related to platform engineering or mention any technologies, practices, or responsibilities that align with the platform engineer community.
+      member: false
+    - account:
+        handle: raulmarin.dev
+        did: did:plc:4zpq3uoczgwjc3hdvzdqeemx
+      reason: The profile does not indicate any involvement with internal developer platforms, specific roles related to platform engineering, relevant technologies, or practices central to platform engineering.
+      member: false
+    - account:
+        handle: pmbutler.bsky.social
+        did: did:plc:2xahfo5r3sg55mqdsl6lkgzp
+      reason: The profile does not provide any information regarding job role, involvement with internal developer platforms, or relevant technologies and practices used in platform engineering.
+      member: false
+    - account:
+        handle: dshvadskiy.bsky.social
+        did: did:plc:ywls3l4a2r52yerxyjhk3vrh
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: mitheor.bsky.social
+        did: did:plc:7znur6uoqvlfbcalwkrhawao
+      reason: The provided link does not contain enough information to classify the individual as a member of the Platform Engineer community. It does not explicitly mention any job role related to platform engineering or technologies used in building platforms.
+      member: false
+    - account:
+        handle: norcalgentleman.bsky.social
+        did: did:plc:i5w22nzqvwab7pv4z27aqble
+      reason: The profile does not provide any information regarding their job role, technologies they use, or practices related to platform engineering. It appears to be a personal and casual description without any technical context.
+      member: false
+    - account:
+        handle: amsterdamnlp.bsky.social
+        did: did:plc:lzaji5o2vex4cdwem4lxq77u
+      reason: The profile does not mention any job role related to platform engineering, nor does it discuss any technologies or practices associated with platform engineering. It focuses on research and news relevant to the NLP community in Amsterdam, which does not indicate a connection to the Platform Engineer community.
+      member: false
+    - account:
+        handle: octakitten.bsky.social
+        did: did:plc:qtfws6kg2f75gmx5scflby2x
+      reason: The profile does not mention any specific role related to platform engineering or technologies used in platform engineering. It lacks information about working on an internal developer platform, relevant job titles, or practices central to platform engineering.
+      member: false
+    - account:
+        handle: ritazh.bsky.social
+        did: did:plc:b76fr4t7yp2vmfu3mgyu6lbc
+      reason: The profile indicates that the person is an 'Eng Lead @Microsoft' and has a role related to Kubernetes, which is a key technology for building internal developer platforms. Their involvement in 'running distributed workloads at scale' suggests practices central to platform engineering.
+      member: true
+    - account:
+        handle: skruk.bsky.social
+        did: did:plc:h5wr34vcgd43mgwurkfez2em
+      reason: The profile does not provide any information about the individual working on an internal developer platform, their job role, the technologies they use, or practices related to platform engineering.
+      member: false
+    - account:
+        handle: damianbrdej.bsky.social
+        did: did:plc:3fcdnbiiltvr7rz3n7imj5cv
+      reason: The profile does not mention any specific job role, technologies related to platform engineering, or practices central to the discipline.
+      member: false
+    - account:
+        handle: balijepalli.bsky.social
+        did: did:plc:a3yxdcrplcgxuhjvq3pjywwc
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: chxch.bsky.social
+        did: did:plc:fwlz5e7yddjpmyruwetffd5f
+      reason: The profile does not provide any information about working in platform engineering or related technologies and practices.
+      member: false
+    - account:
+        handle: darkandwondrous.bsky.social
+        did: did:plc:xc3wzbbqpbxgx44xsc4hwzet
+      reason: The profile does not mention any job role related to platform engineering or any related technologies or practices. It focuses on personal interests and does not indicate any involvement in internal developer platforms or engineering practices.
+      member: false
+    - account:
+        handle: admc.io
+        did: did:plc:j3etwzz6ifr5y3rafrqkusru
+      reason: The profile lacks any indication of working on an internal developer platform, relevant role title, experience with platform-related technologies, or mention of practices central to platform engineering.
+      member: false
+    - account:
+        handle: juanpml.bsky.social
+        did: did:plc:il7vjdjuqo6vxk3aqdti4xlw
+      reason: The profile describes a combination of roles focused on machine learning and AI development, which does not specifically indicate involvement in platform engineering practices or technologies.
+      member: false
+    - account:
+        handle: bradverb.bsky.social
+        did: did:plc:3ve7ctypqmtyi555dcwmqmqk
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: aparker.io
+        did: did:plc:gttrfs4hfmrclyxvwkwcgpj7
+      reason: The profile does not mention specific technologies related to platform engineering, nor does it describe any roles or practices central to platform engineering.
+      member: false
+    - account:
+        handle: redogrereview.bsky.social
+        did: did:plc:fqcmkqtokfmtppbewlkogf7f
+      reason: The profile describes an indie press for poetry and visual art and does not mention any involvement in platform engineering or related technologies.
+      member: false
+    - account:
+        handle: bcgreenwitch.bsky.social
+        did: did:plc:jblq3usn7f5hxwuxmjxjtzzh
+      reason: The account has no profile description.
+      member: false
+    - account:
+        handle: florianbrand.de
+        did: did:plc:4eg46qp2hobwsv3ggvd2fozc
+      reason: The profile does not describe a job role related to platform engineering nor mentions working with technologies or practices central to platform engineering.
+      member: false
