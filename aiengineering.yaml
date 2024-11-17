@@ -351,6 +351,9 @@ items:
     handle: nsaphra.bsky.social
   member: true
 - account:
+    handle: ntindle.com
+  member: true
+- account:
     handle: oca.computer
   member: true
 - account:
