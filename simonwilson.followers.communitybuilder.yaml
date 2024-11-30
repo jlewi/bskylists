@@ -1,0 +1,20 @@
+apiVersion: "bsctl.dev/v1alpha1"
+kind: "CommunityBuilder"
+metadata:
+    labels: {}
+    name: AIEngineeringCommunity
+definition:
+    name: AI Engineer
+    criterion:
+        - They are working on AI, ML, or LLMs
+        - They describe their job role as AI Engineer, ml platform engineer, ml engineer, AI researcher, prompt engineer
+        - They work with technologies used to build AI; e.g. LLMs, RAG, evals, datasets, finetuning, prompting, openai, chatgpt, claude, llama
+        - They describe practices central to AI engineering; e.g. LLMs, RAG, evals, datasets, finetuning, prompting
+    examples:
+        - profile: I'm an AI engineer at acme.co
+          member: true
+          explanation: ""
+seeds:
+    - handle: simonwillison.net
+      did: ""
+outputFile: /Users/jlewi/git_bskylists/simonwillison.followers.aiengineering.yaml
