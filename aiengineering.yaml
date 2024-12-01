@@ -5322,3 +5322,6 @@ items:
         did: did:plc:2hqcdbdgigqfp65pltbfztln
       reason: The person is currently a 'ML Engineer', which fits the job role criterion for the AI Engineer community.
       member: true
+    - account:
+        handle: heikohotz.bsky.social
+      member: true
